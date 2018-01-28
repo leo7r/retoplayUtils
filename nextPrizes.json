@@ -1,6 +1,6 @@
-{
-  "2018-01-28":{"prize":"ENTRADAS AL PLAY EL 29 DE ENERO","startDate":"2018-01-28 19:30:00"},
-  "2018-01-29":{"prize":"ENTRADAS AL PLAY EL 30 DE ENERO","startDate":"2018-01-29 17:00:00"},
-  "2018-01-30":{"prize":"ENTRADAS AL PLAY EL 31 DE ENERO","startDate":"2018-01-30 17:00:00"},
-  "2018-01-31":{"prize":"GORRAS OFICIAL DE TU EQUIPO","startDate":"2018-01-31 17:00:00"}
-}
+[
+  {"prize":"ENTRADAS AL PLAY EL 29 DE ENERO","startDate":"2018-01-28 19:30:00"},
+  {"prize":"ENTRADAS AL PLAY EL 30 DE ENERO","startDate":"2018-01-29 17:00:00"},
+  {"prize":"ENTRADAS AL PLAY EL 31 DE ENERO","startDate":"2018-01-30 17:00:00"},
+  {"prize":"GORRAS OFICIAL DE TU EQUIPO","startDate":"2018-01-31 17:00:00"}
+]
