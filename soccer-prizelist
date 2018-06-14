@@ -1,5 +1,6 @@
 [
   {"name":"$5 Amazon gift card","points":3300,"image":"http://cdn.onair.tv/1528994065860-210.jpg","enabled":true, "color":"#136738"},
   {"name":"UCL Finale Mini Ball","points":9500,"image":"http://cdn.onair.tv/1528994905237-223.jpg","enabled":true, "color":"#538ead", "fontColor":"black"},
-   {"name":"$20 Amazon gift card","points":26000,"image":"http://cdn.onair.tv/1528994065860-210.jpg","enabled":true, "color":"#b87e14"}
+   {"name":"$20 Amazon gift card","points":26000,"image":"http://cdn.onair.tv/1528994065860-210.jpg","enabled":true, "color":"#b87e14"},
+   {"name":"Telstar Top Glider","points":27700,"image":"http://cdn.onair.tv/1528995412306-236.jpg","enabled":true, "color":"#ae8a86", "fontColor":"black"}
 ]
