@@ -1,5 +1,5 @@
 [ 
-  {"prize":"MUNDIAL 2018","startDate":"2018-06-23 10:00:00", "duration":2, "timezone":"GMT-5","title":"KOR vs MEX"},
-  {"prize":"MUNDIAL 2018","startDate":"2018-06-23 13:00:00", "duration":2, "timezone":"GMT-5","title":"ALE vs SUE"},
-  {"prize":"MUNDIAL 2018","startDate":"2018-06-24 13:00:00", "duration":2, "timezone":"GMT-5","title":"POL vs COL"}
+  {"prize":"MUNDIAL 2018","startDate":"2018-06-24 13:00:00", "duration":2, "timezone":"GMT-5","title":"POL vs COL"},
+  {"prize":"MUNDIAL 2018","startDate":"2018-06-25 09:00:00", "duration":2, "timezone":"GMT-5","title":"URU vs RUS"},
+  {"prize":"MUNDIAL 2018","startDate":"2018-06-25 13:00:00", "duration":2, "timezone":"GMT-5","title":"IRA vs POR"}
 ]
