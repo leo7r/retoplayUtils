@@ -1,13 +1,13 @@
 [
-  {"name":"$5 Amazon gift card","points":3300,"image":"http://cdn.onair.tv/1528994065860-210.jpg","enabled":true, "color":"#136738"},
-  {"name":"UCL Finale Mini Ball","points":9500,"image":"http://cdn.onair.tv/1529009325005-28.jpg","enabled":true, "color":"#538ead", "fontColor":"black"},
-   {"name":"$20 Amazon gift card","points":26000,"image":"http://cdn.onair.tv/1528994065860-210.jpg","enabled":true, "color":"#b87e14"},
-   {"name":"Telstar Top Glider","points":27700,"image":"http://cdn.onair.tv/1529009349898-41.jpg","enabled":true, "color":"#ae8a86", "fontColor":"black"},
-   {"name":"Adidas Oficial - Mexico","points":29000,"image":"http://cdn.onair.tv/1529763520649-184.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Adidas Oficial - España","points":29000,"image":"http://cdn.onair.tv/1529006935613-15.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Adidas Oficial - Brasil","points":29500,"image":"http://cdn.onair.tv/1529012505811-54.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Adidas Oficial - Colombia","points":29000,"image":"http://cdn.onair.tv/1529012542786-67.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Adidas Oficial - Argentina","points":29000,"image":"http://cdn.onair.tv/1529012592153-80.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Adidas Oficial - Copa del Mundo","points":29000,"image":"http://cdn.onair.tv/1529012619315-93.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Camisa Oficial Adidas\n(5 equipos disponibles)","points":130500,"image":"http://cdn.onair.tv/1529012654307-106.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"}
+  {"name":"$5 Amazon gift card","points":2150,"image":"http://cdn.onair.tv/1528994065860-210.jpg","enabled":true, "color":"#136738"},
+  {"name":"UCL Finale Mini Ball","points":5600,"image":"http://cdn.onair.tv/1529009325005-28.jpg","enabled":true, "color":"#538ead", "fontColor":"black"},
+   {"name":"$20 Amazon gift card","points":8600,"image":"http://cdn.onair.tv/1528994065860-210.jpg","enabled":true, "color":"#b87e14"},
+   {"name":"Telstar Top Glider","points":10750,"image":"http://cdn.onair.tv/1529009349898-41.jpg","enabled":true, "color":"#ae8a86", "fontColor":"black"},
+   {"name":"Adidas Oficial - Mexico","points":10750,"image":"http://cdn.onair.tv/1529763520649-184.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
+   {"name":"Adidas Oficial - España","points":10750,"image":"http://cdn.onair.tv/1529006935613-15.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
+   {"name":"Adidas Oficial - Brasil","points":10750,"image":"http://cdn.onair.tv/1529012505811-54.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
+   {"name":"Adidas Oficial - Colombia","points":10750,"image":"http://cdn.onair.tv/1529012542786-67.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
+   {"name":"Adidas Oficial - Argentina","points":10750,"image":"http://cdn.onair.tv/1529012592153-80.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
+   {"name":"Adidas Oficial - Copa del Mundo","points":10750,"image":"http://cdn.onair.tv/1529012619315-93.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
+   {"name":"Camisa Oficial Adidas\n(5 equipos disponibles)","points":56000,"image":"http://cdn.onair.tv/1529012654307-106.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"}
 ]
