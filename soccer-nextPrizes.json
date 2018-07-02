@@ -1,5 +1,6 @@
 [ 
   {"prize":"MUNDIAL 2018","startDate":"2018-07-02 09:00:00", "duration":2, "timezone":"GMT-5","title":"BRA vs MEX"},
   {"prize":"MUNDIAL 2018","startDate":"2018-07-02 13:00:00", "duration":2, "timezone":"GMT-5","title":"BEL vs JAP"},
+  {"prize":"MUNDIAL 2018","startDate":"2018-07-03 09:00:00", "duration":2, "timezone":"GMT-5","title":"SUE vs SUI"},
   {"prize":"MUNDIAL 2018","startDate":"2018-07-03 13:00:00", "duration":2, "timezone":"GMT-5","title":"COL vs ING"}
 ]
