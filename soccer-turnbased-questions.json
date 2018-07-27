@@ -1,1 +1,613 @@
-[{"id":1,"question":"Equipo con más Samba Gold","answer":1,"answers":[{"id":1,"title":"Shaktar"},{"id":2,"title":"PSG"},{"id":3,"title":"Juventus"},{"id":4,"title":"Barcelona"}]},{"id":2,"question":"País más campeón de la Copa Intercontinental","answer":1,"answers":[{"id":1,"title":"Brasil"},{"id":2,"title":"Italia"},{"id":3,"title":"Argentina"},{"id":4,"title":"España"}]},{"id":3,"question":"Único equipo al que el Benevento pudo derrotar de visita en la Serie A","answer":1,"answers":[{"id":1,"title":"Inter Milan"},{"id":2,"title":"Sampdoria"},{"id":3,"title":"AC Milan"},{"id":4,"title":"Clagliari"}]},{"id":4,"question":"¿Jugador que ha marcado en los últimos 3 derbys de Madrid?","answer":1,"answers":[{"id":1,"title":"Ramos"},{"id":2,"title":"Cristiano Ronaldo"},{"id":3,"title":"Griezmann"},{"id":4,"title":"Ninguno"}]},{"id":5,"question":"Quien de estos NO se ha quejado PÚBLICAMENTE de los árbitros?","answer":1,"answers":[{"id":1,"title":"Arturo Vidal"},{"id":2,"title":"Ninguna de las anteriores"},{"id":3,"title":"Piqué"},{"id":4,"title":"Buffon"}]},{"id":6,"question":"Entrenador del Guanzou Evergrande","answer":1,"answers":[{"id":1,"title":"Luiz Felipe Scolari"},{"id":2,"title":"Luis Enrique"},{"id":3,"title":"Cannavaro"},{"id":4,"title":"Canavaro"}]},{"id":7,"question":"Cuál de estos equipos tiene un capitán extranjero?","answer":1,"answers":[{"id":1,"title":"Sampdoria"},{"id":2,"title":"Borussia Mönchengladbach"},{"id":3,"title":"Galatasaray"},{"id":4,"title":"Tigres"}]},{"id":8,"question":"Precio de la transferencia de Marc-Andreé Ter Stegen del Borussia al FC barcelona","answer":1,"answers":[{"id":1,"title":"20 millones"},{"id":2,"title":"24 millones"},{"id":3,"title":"22 millones"},{"id":4,"title":"25 millones"}]},{"id":9,"question":"Máximo goleador histórico en la Ligue 1","answer":1,"answers":[{"id":1,"title":"Delio Onnis"},{"id":2,"title":"Roger Courtois"},{"id":3,"title":"Edinson Cavani"},{"id":4,"title":"Zlatan Ibrahimovic"}]},{"id":10,"question":"Único balón de oro con triple empate en el tercer puesto","answer":1,"answers":[{"id":1,"title":"1999"},{"id":2,"title":"1991"},{"id":3,"title":"2000"},{"id":4,"title":"1988"}]},{"id":11,"question":"Único equipo al que el Benevento pudo derrotar de visita en la Serie A","answer":1,"answers":[{"id":1,"title":"Sampdoria"},{"id":2,"title":"Inter Milan"},{"id":3,"title":"Clagliari"},{"id":4,"title":"AC Milan"}]},{"id":12,"question":"Portero Brasileño que se comió 7 con Alemania en el mundial del 2014","answer":1,"answers":[{"id":1,"title":"Julio César"},{"id":2,"title":"Alisson"},{"id":3,"title":"Diego Alves"},{"id":4,"title":"Ederson"}]},{"id":13,"question":"Edad de Fran Ribéry","answer":1,"answers":[{"id":1,"title":"35 años"},{"id":2,"title":"32 años"},{"id":3,"title":"33 años"},{"id":4,"title":"34 años"}]},{"id":14,"question":"“I’am the special One”","answer":1,"answers":[{"id":1,"title":"Niko Kovać"},{"id":2,"title":"Pep Guardiola"},{"id":3,"title":"Conte"},{"id":4,"title":"Mourinho"}]},{"id":15,"question":"Máximo goleador histórico del Inter de Milán","answer":1,"answers":[{"id":1,"title":"Alessandro Altobelli"},{"id":2,"title":"Guizzepe Meazza"},{"id":3,"title":"Mauro Icardi"},{"id":4,"title":"Samuel Eto’o"}]},{"id":16,"question":"Árbitro que le perdonó 2 goles y una Roja a Casemiro en la Champions","answer":1,"answers":[{"id":1,"title":"Kassai"},{"id":2,"title":"Çakir"},{"id":3,"title":"Aytekin"},{"id":4,"title":"Øvrebø"}]},{"id":17,"question":"Según Zidane ¿Qué le dijo Materazzi en la final del mundo del 2006 donde le pegó un cabezazo en el pecho?","answer":1,"answers":[{"id":1,"title":"“Hijo de una puta terrorista”"},{"id":2,"title":"“Tu hermana vive de su cuerpo”"},{"id":3,"title":"“¿Cuándo explotarás?”"},{"id":4,"title":"“Linda calva”"}]},{"id":18,"question":"Color de visitante del uniforme de la selección de Groenlandia","answer":1,"answers":[{"id":1,"title":"Rojo y Negro"},{"id":2,"title":"Azul y Blanco"},{"id":3,"title":"Rojo y Azul"},{"id":4,"title":"Blanco y Rojo"}]},{"id":19,"question":"Liga donde es obligatorio que los jugadores tengan cláusula de rescisión de contrato","answer":1,"answers":[{"id":1,"title":"Premier League"},{"id":2,"title":"La Liga"},{"id":3,"title":"Serie A"},{"id":4,"title":"Bundesliga"}]},{"id":20,"question":"Resultado de la final de la Champions del 2007 entre Liverpool y AC Milan","answer":1,"answers":[{"id":1,"title":"Milan 0-1 Liverpool"},{"id":2,"title":"Milan 3-0 Liverpool"},{"id":3,"title":"Milan 3-3 Liverpool"},{"id":4,"title":"Milan 2-1 Liverpool"}]},{"id":21,"question":"Primer campeón de la Eurocopa","answer":1,"answers":[{"id":1,"title":"Dinamarca"},{"id":2,"title":"Italia"},{"id":3,"title":"Alemania"},{"id":4,"title":"Unión Soviética"}]},{"id":22,"question":"¿Cual de estso equipos tiene menos de 2 Champions?","answer":1,"answers":[{"id":1,"title":"Benfica"},{"id":2,"title":"Nottingham Forest"},{"id":3,"title":"Celtic"},{"id":4,"title":"Inter de Milán"}]},{"id":23,"question":"Subcampeón de la Champions del 1980","answer":1,"answers":[{"id":1,"title":"Wolfburgo"},{"id":2,"title":"Hamburgo"},{"id":3,"title":"Real Madrid"},{"id":4,"title":"Bayern"}]},{"id":24,"question":"Dorsal de Pastore en el París.","answer":1,"answers":[{"id":1,"title":"10"},{"id":2,"title":"22"},{"id":3,"title":"32"},{"id":4,"title":"27"}]},{"id":25,"question":"Equipo de Xavi Hernández","answer":1,"answers":[{"id":1,"title":"Al Ittihad FC (Jeddah)"},{"id":2,"title":"All-sadd FC (Que sad)"},{"id":3,"title":"FK Bunyodkor"},{"id":4,"title":"Al Ain SCC"}]},{"id":26,"question":"Equipo más odiado en Italia","answer":1,"answers":[{"id":1,"title":"Juventus"},{"id":2,"title":"Lazio"},{"id":3,"title":"Inter de Milán"},{"id":4,"title":"Benevento"}]},{"id":27,"question":"Campeón actual de la AFC Champions League","answer":1,"answers":[{"id":1,"title":"Guanzou Evergrande"},{"id":2,"title":"All-Sadd Sports"},{"id":3,"title":"Kashima Antlers"},{"id":4,"title":"Urawa Red Diamods"}]},{"id":28,"question":"Campeón de la Copa Libertadores 1991","answer":1,"answers":[{"id":1,"title":"Colo Colo"},{"id":2,"title":"Palmeiras"},{"id":3,"title":"Boca Juniros"},{"id":4,"title":"River Plate"}]},{"id":29,"question":"Equipo con mejor clasificación histórica de la Libertadores","answer":1,"answers":[{"id":1,"title":"Gremio"},{"id":2,"title":"Boca Juniors"},{"id":3,"title":"Nacional"},{"id":4,"title":"River Plate"}]},{"id":30,"question":"Máximo goleador histórico en la Ligue 1","answer":1,"answers":[{"id":1,"title":"Edinson Cavani"},{"id":2,"title":"Roger Courtois"},{"id":3,"title":"Delio Onnis"},{"id":4,"title":"Zlatan Ibrahimovic"}]},{"id":31,"question":"Peor goleada recibida por la Roma en Champions en los últimos 15","answer":1,"answers":[{"id":1,"title":"Bayern 7-0 Roma"},{"id":2,"title":"United 8-3 Roma"},{"id":3,"title":"Roma 1-8 Tottenham"},{"id":4,"title":"Roma 0-4 FC Barcelona"}]},{"id":32,"question":"Entrenador del Guanzou Evergrande","answer":1,"answers":[{"id":1,"title":"Cannavaro"},{"id":2,"title":"Luiz Felipe Scolari"},{"id":3,"title":"Canavaro"},{"id":4,"title":"Luis Enrique"}]},{"id":33,"question":"“Me hicieron cree que tenía talento”","answer":1,"answers":[{"id":1,"title":"George Best"},{"id":2,"title":"Eto’o"},{"id":3,"title":"Víctor Valdés"},{"id":4,"title":"Di Stefano"}]},{"id":34,"question":"Equipo más subcampeón de la Pokal (copa alemana)","answer":1,"answers":[{"id":1,"title":"Hamburgo"},{"id":2,"title":"Borussia Dortmund"},{"id":3,"title":"Bayern Múnich"},{"id":4,"title":"Schalke 04"}]},{"id":35,"question":"Quien de estos no nació en Brasil?","answer":1,"answers":[{"id":1,"title":"Rafinha"},{"id":2,"title":"Dani Alves"},{"id":3,"title":"Thiago Alcántara"},{"id":4,"title":"Diego Costa"}]},{"id":36,"question":"Equipo de Xavi Hernández","answer":1,"answers":[{"id":1,"title":"Al Ittihad FC (Jeddah)"},{"id":2,"title":"FK Bunyodkor"},{"id":3,"title":"Al Ain SCC"},{"id":4,"title":"All-sadd FC (Que sad)"}]},{"id":37,"question":"Peor resultado en la historia de la selección de Puerto Rico","answer":1,"answers":[{"id":1,"title":"🇵🇷 1-14 Costa Rica"},{"id":2,"title":"🇵🇷 0-15 Antillas Neerlandesa"},{"id":3,"title":"🇵🇷 0-9 Cuba"},{"id":4,"title":"🇵🇷 0-20 Estados Unidos"}]},{"id":38,"question":"¿Como define Heynkes a James?","answer":1,"answers":[{"id":1,"title":"Jugador incompleto"},{"id":2,"title":"Regalo del Cielo"},{"id":3,"title":"Ninguna de las anteriores"},{"id":4,"title":"El mejor del mundo"}]},{"id":39,"question":"País más campeón de la Copa Intercontinental","answer":1,"answers":[{"id":1,"title":"España"},{"id":2,"title":"Argentina"},{"id":3,"title":"Brasil"},{"id":4,"title":"Italia"}]}]
+[{
+	"id": 1,
+	"question": "¿Balón de Oro más Polémico de la historia?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "2010"
+	}, {
+		"id": 2,
+		"title": "2006"
+	}, {
+		"id": 3,
+		"title": "1995"
+	}, {
+		"id": 4,
+		"title": "2017"
+	}]
+}, {
+	"id": 1,
+	"question": "¿Cuál de estos Equipos fue eliminado en octavos de la EFL Cup?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Leicester City"
+	}, {
+		"id": 2,
+		"title": "Manchester City"
+	}, {
+		"id": 3,
+		"title": "Tottenham"
+	}, {
+		"id": 4,
+		"title": "Manchester United"
+	}]
+}, {
+	"id": 1,
+	"question": "Quien de estos no estuvo en las semis de la “ConcaChampions” del 2009",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Santos Laguna"
+	}, {
+		"id": 2,
+		"title": "Cruz Azul"
+	}, {
+		"id": 3,
+		"title": "Ninguna de las anteriores"
+	}, {
+		"id": 4,
+		"title": "Puerto Rico Islanders"
+	}]
+}, {
+	"id": 1,
+	"question": "Equipo que NO está en el primer grupo en la tercera división de Francia",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Olimpique De Marsella II"
+	}, {
+		"id": 2,
+		"title": "Mónaco II"
+	}, {
+		"id": 3,
+		"title": "PSG II"
+	}, {
+		"id": 4,
+		"title": "Niza II"
+	}]
+}, {
+	"id": 1,
+	"question": "Edad de Fran Ribéry",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "32 años"
+	}, {
+		"id": 2,
+		"title": "35 años"
+	}, {
+		"id": 3,
+		"title": "33 años"
+	}, {
+		"id": 4,
+		"title": "34 años"
+	}]
+}, {
+	"id": 1,
+	"question": "Único balón de oro con triple empate en el tercer puesto",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "1988"
+	}, {
+		"id": 2,
+		"title": "1999"
+	}, {
+		"id": 3,
+		"title": "1991"
+	}, {
+		"id": 4,
+		"title": "2000"
+	}]
+}, {
+	"id": 1,
+	"question": "Edad de Podolski",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "33"
+	}, {
+		"id": 2,
+		"title": "34"
+	}, {
+		"id": 3,
+		"title": "35"
+	}, {
+		"id": 4,
+		"title": "32"
+	}]
+}, {
+	"id": 1,
+	"question": "Equipo más subcampeón de la Pokal (copa alemana)",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Bayern Múnich"
+	}, {
+		"id": 2,
+		"title": "Hamburgo"
+	}, {
+		"id": 3,
+		"title": "Borussia Dortmund"
+	}, {
+		"id": 4,
+		"title": "Schalke 04"
+	}]
+}, {
+	"id": 1,
+	"question": "Cual de estos equipo NO ha estado en la final de la Copa del Rey",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "FC Barcelona B"
+	}, {
+		"id": 2,
+		"title": "Real Madrid Castilla"
+	}, {
+		"id": 3,
+		"title": "Alavés"
+	}, {
+		"id": 4,
+		"title": "RCR Huelva"
+	}]
+}, {
+	"id": 1,
+	"question": "Precio de la transferencia de Marc-Andreé Ter Stegen del Borussia al FC barcelona",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "20 millones"
+	}, {
+		"id": 2,
+		"title": "22 millones"
+	}, {
+		"id": 3,
+		"title": "24 millones"
+	}, {
+		"id": 4,
+		"title": "25 millones"
+	}]
+}, {
+	"id": 1,
+	"question": "Jugador que más asistencias ha dado a Messi",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Andrés Iniesta"
+	}, {
+		"id": 2,
+		"title": "Dani Alves"
+	}, {
+		"id": 3,
+		"title": "Jordi Alba"
+	}, {
+		"id": 4,
+		"title": "Xavi"
+	}]
+}, {
+	"id": 1,
+	"question": "Según Zidane ¿Qué le dijo Materazzi en la final del mundo del 2006 donde le pegó un cabezazo en el pecho?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "“Hijo de una puta terrorista”"
+	}, {
+		"id": 2,
+		"title": "“Tu hermana vive de su cuerpo”"
+	}, {
+		"id": 3,
+		"title": "“Linda calva”"
+	}, {
+		"id": 4,
+		"title": "“¿Cuándo explotarás?”"
+	}]
+}, {
+	"id": 1,
+	"question": "Quien de estos NO se ha quejado PÚBLICAMENTE de los árbitros?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Piqué"
+	}, {
+		"id": 2,
+		"title": "Buffon"
+	}, {
+		"id": 3,
+		"title": "Arturo Vidal"
+	}, {
+		"id": 4,
+		"title": "Ninguna de las anteriores"
+	}]
+}, {
+	"id": 1,
+	"question": "Equipo más subcampeón de Argentina",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Racing"
+	}, {
+		"id": 2,
+		"title": "River Plate"
+	}, {
+		"id": 3,
+		"title": "Boca"
+	}, {
+		"id": 4,
+		"title": "Estudiantes (hola Smolov :v)"
+	}]
+}, {
+	"id": 1,
+	"question": "Quien de estos NO ha sido ovacionado en el Bernabéu",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Totti"
+	}, {
+		"id": 2,
+		"title": "Ninguna de las anteriores"
+	}, {
+		"id": 3,
+		"title": "Buffon"
+	}, {
+		"id": 4,
+		"title": "Ronaldinho"
+	}]
+}, {
+	"id": 1,
+	"question": "Resultado de las previas de la Europa League del 2001 entre Constelació Esportiva y Deportivo la Coruña",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Esport 0-10|0-6 (0-16) Depor"
+	}, {
+		"id": 2,
+		"title": "Ninguna de las anteriores"
+	}, {
+		"id": 3,
+		"title": "Esportiva 1-12|2-10 (3-22) Dep"
+	}, {
+		"id": 4,
+		"title": "Esportiva 1-8|0-8 (1-16) Depor"
+	}]
+}, {
+	"id": 1,
+	"question": "Equipo más perdedor de las finales de la Libertadores",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Olimpia de Paraguay"
+	}, {
+		"id": 2,
+		"title": "Boca"
+	}, {
+		"id": 3,
+		"title": "Peñarol"
+	}, {
+		"id": 4,
+		"title": "São Paulo"
+	}]
+}, {
+	"id": 1,
+	"question": "Equipo más subcampeón de los campeonatos nacionales italianos",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Nápoli"
+	}, {
+		"id": 2,
+		"title": "Roma"
+	}, {
+		"id": 3,
+		"title": "Inter de Milan"
+	}, {
+		"id": 4,
+		"title": "Juventus"
+	}]
+}, {
+	"id": 1,
+	"question": "Mayor cantidad de espectadores en la final de la Copa Alemana",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "80,814"
+	}, {
+		"id": 2,
+		"title": "80,400"
+	}, {
+		"id": 3,
+		"title": "80,000"
+	}, {
+		"id": 4,
+		"title": "80,100"
+	}]
+}, {
+	"id": 1,
+	"question": "Cuándo se hará la elección a la sede de los mundiales del 2026 y 2030",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "2020"
+	}, {
+		"id": 2,
+		"title": "2024"
+	}, {
+		"id": 3,
+		"title": "2018"
+	}, {
+		"id": 4,
+		"title": "2022"
+	}]
+}, {
+	"id": 1,
+	"question": "¿Quien de estos no es musulmán?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Modric"
+	}, {
+		"id": 2,
+		"title": "Benzemalo"
+	}, {
+		"id": 3,
+		"title": "Pogba"
+	}, {
+		"id": 4,
+		"title": "Mané"
+	}]
+}, {
+	"id": 1,
+	"question": "“Perdonaré que fallen pero no que no se esfuerzen”",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Zidane"
+	}, {
+		"id": 2,
+		"title": "Heynkes"
+	}, {
+		"id": 3,
+		"title": "Guardiola"
+	}, {
+		"id": 4,
+		"title": "Mourinho"
+	}]
+}, {
+	"id": 1,
+	"question": "¿Quien de estos no es musulmán?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Modric"
+	}, {
+		"id": 2,
+		"title": "Mané"
+	}, {
+		"id": 3,
+		"title": "Benzemalo"
+	}, {
+		"id": 4,
+		"title": "Pogba"
+	}]
+}, {
+	"id": 1,
+	"question": "¿Cual de estos equipos ha ganado 3 veces en casa del Real Madrid por 3 años seguidos en La Liga?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "FC Barcelona"
+	}, {
+		"id": 2,
+		"title": "Athletic Club"
+	}, {
+		"id": 3,
+		"title": "UD Las Palmas"
+	}, {
+		"id": 4,
+		"title": "Atlético de Madrid"
+	}]
+}, {
+	"id": 1,
+	"question": "Copa Libertadores con más equipos participantes (cantidad)",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "37"
+	}, {
+		"id": 2,
+		"title": "38"
+	}, {
+		"id": 3,
+		"title": "47"
+	}, {
+		"id": 4,
+		"title": "46"
+	}]
+}, {
+	"id": 1,
+	"question": "“Benzemá es el mejor 9 del mundo”",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Cristiano Ronaldo"
+	}, {
+		"id": 2,
+		"title": "Zinedine Zidane"
+	}, {
+		"id": 3,
+		"title": "Paulo Dybala"
+	}, {
+		"id": 4,
+		"title": "Florentino Pérez"
+	}]
+}, {
+	"id": 1,
+	"question": "Cuál de estos equipos tiene un capitán extranjero?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Sampdoria"
+	}, {
+		"id": 2,
+		"title": "Tigres"
+	}, {
+		"id": 3,
+		"title": "Borussia Mönchengladbach"
+	}, {
+		"id": 4,
+		"title": "Galatasaray"
+	}]
+}, {
+	"id": 1,
+	"question": "¿Cuál de estos Equipos fue eliminado en octavos de la EFL Cup?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Manchester United"
+	}, {
+		"id": 2,
+		"title": "Manchester City"
+	}, {
+		"id": 3,
+		"title": "Leicester City"
+	}, {
+		"id": 4,
+		"title": "Tottenham"
+	}]
+}, {
+	"id": 1,
+	"question": "Quien de estos NO se ha quejado PÚBLICAMENTE de los árbitros?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Arturo Vidal"
+	}, {
+		"id": 2,
+		"title": "Piqué"
+	}, {
+		"id": 3,
+		"title": "Buffon"
+	}, {
+		"id": 4,
+		"title": "Ninguna de las anteriores"
+	}]
+}, {
+	"id": 1,
+	"question": "Año de inauguración de la Copa Libertadores",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "1955"
+	}, {
+		"id": 2,
+		"title": "1954"
+	}, {
+		"id": 3,
+		"title": "1960"
+	}, {
+		"id": 4,
+		"title": "1956"
+	}]
+}, {
+	"id": 1,
+	"question": "¿Cuál de estos Equipos fue eliminado en octavos de la EFL Cup?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Manchester United"
+	}, {
+		"id": 2,
+		"title": "Tottenham"
+	}, {
+		"id": 3,
+		"title": "Leicester City"
+	}, {
+		"id": 4,
+		"title": "Manchester City"
+	}]
+}, {
+	"id": 1,
+	"question": "¿Cuál de estos Equipos fue eliminado en octavos de la EFL Cup?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Leicester City"
+	}, {
+		"id": 2,
+		"title": "Manchester United"
+	}, {
+		"id": 3,
+		"title": "Tottenham"
+	}, {
+		"id": 4,
+		"title": "Manchester City"
+	}]
+}, {
+	"id": 1,
+	"question": "Opinión de Pepe sobre la afición del Real Madrid?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "No motivan te debes motivar tú"
+	}, {
+		"id": 2,
+		"title": "Sales a matar por ellos"
+	}, {
+		"id": 3,
+		"title": "No son muy pasionales"
+	}, {
+		"id": 4,
+		"title": "Son los mejores del mundo"
+	}]
+}, {
+	"id": 1,
+	"question": "Cuál de estos equipos tiene un capitán extranjero?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Tigres"
+	}, {
+		"id": 2,
+		"title": "Galatasaray"
+	}, {
+		"id": 3,
+		"title": "Borussia Mönchengladbach"
+	}, {
+		"id": 4,
+		"title": "Sampdoria"
+	}]
+}, {
+	"id": 1,
+	"question": "Equipo que No es de una de las 5 Grandes ligas con más Balones de Oro",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Porto"
+	}, {
+		"id": 2,
+		"title": "Benfica"
+	}, {
+		"id": 3,
+		"title": "Ajax"
+	}, {
+		"id": 4,
+		"title": "Dynamo Kyiv"
+	}]
+}, {
+	"id": 1,
+	"question": "Máximo subcampeón de la AFC Champions League",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Pohang Steelets"
+	}, {
+		"id": 2,
+		"title": "Al-Hilal"
+	}, {
+		"id": 3,
+		"title": "Al-Ahli"
+	}, {
+		"id": 4,
+		"title": "All Sadd Spots"
+	}]
+}]
