@@ -1,13 +1,19 @@
 [
   {"name":"$5 Amazon gift card","points":2150,"image":"http://cdn.onair.tv/1528994065860-210.jpg","enabled":true, "color":"#136738"},
   {"name":"UCL Finale Mini Ball","points":5600,"image":"http://cdn.onair.tv/1529009325005-28.jpg","enabled":true, "color":"#538ead", "fontColor":"black"},
-   {"name":"$20 Amazon gift card","points":8600,"image":"http://cdn.onair.tv/1528994065860-210.jpg","enabled":true, "color":"#b87e14"},
-   {"name":"Telstar Top Glider","points":10750,"image":"http://cdn.onair.tv/1529009349898-41.jpg","enabled":true, "color":"#ae8a86", "fontColor":"black"},
-   {"name":"Adidas Oficial - Mexico","points":10750,"image":"http://cdn.onair.tv/1529763520649-184.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Adidas Oficial - España","points":10750,"image":"http://cdn.onair.tv/1529006935613-15.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Adidas Oficial - Brasil","points":10750,"image":"http://cdn.onair.tv/1529012505811-54.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Adidas Oficial - Colombia","points":10750,"image":"http://cdn.onair.tv/1529012542786-67.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Adidas Oficial - Argentina","points":10750,"image":"http://cdn.onair.tv/1529012592153-80.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Adidas Oficial - Copa del Mundo","points":10750,"image":"http://cdn.onair.tv/1529012619315-93.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
-   {"name":"Camisa Oficial Adidas\n(5 equipos disponibles)","points":56000,"image":"http://cdn.onair.tv/1529012654307-106.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"}
+  {"name":"$20 Amazon gift card","points":8600,"image":"http://cdn.onair.tv/1528994065860-210.jpg","enabled":true, "color":"#b87e14"},
+  {"name":"Telstar Top Glider","points":10750,"image":"http://cdn.onair.tv/1529009349898-41.jpg","enabled":true, "color":"#ae8a86", "fontColor":"black"},
+  {"name":"Adidas Oficial - España","points":10750,"image":"http://cdn.onair.tv/1529006935613-15.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
+  {"name":"Adidas Oficial - Copa del Mundo","points":10750,"image":"http://cdn.onair.tv/1529012619315-93.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"},
+  {"name":"Juventus - Adidas Oficial","points":12400,"image":"http://cdn.onair.tv/1533397691160-2.jpg","enabled":true, "color":"#136738"},
+  {"name":"Manchester UTD - Adidas Oficial","points":14620,"image":"http://cdn.onair.tv/1533397859172-15.jpg","enabled":true, "color":"#136738"},
+  {"name":"Tango - Adidas Oficial (5 colores)","points":19780,"image":"http://cdn.onair.tv/1533397950983-28.jpg","enabled":true, "color":"#136738"},
+  {"name":"España - Adidas Oficial","points":22360,"image":"http://cdn.onair.tv/1533398013803-41.jpg","enabled":true, "color":"#136738"},
+  {"name":"Barcelona FC - Nike Oficial","points":42300,"image":"http://cdn.onair.tv/1533398076366-54.jpg","enabled":true, "color":"#136738"},
+  {"name":"Tottenham - Nike Oficial","points":42300,"image":"http://cdn.onair.tv/1533398124108-67.jpg","enabled":true, "color":"#136738"},
+  {"name":"Chelsea FC - Nike Oficial","points":42300,"image":"http://cdn.onair.tv/1533398169599-80.jpg","enabled":true, "color":"#136738"},
+  {"name":"Atletico Madrid - Nike Oficial","points":42300,"image":"http://cdn.onair.tv/1533398199656-93.jpg","enabled":true, "color":"#136738"},
+  {"name":"Inter - Nike Oficial","points":42300,"image":"http://cdn.onair.tv/1533398236447-106.jpg","enabled":true, "color":"#136738"},
+  {"name":"Roma - Nike Oficial","points":42300,"image":"http://cdn.onair.tv/1533398260124-119.jpg","enabled":true, "color":"#136738"},
+  {"name":"Camisa Oficial Adidas\n(5 equipos disponibles)","points":56000,"image":"http://cdn.onair.tv/1529012654307-106.jpg","enabled":true, "color":"#ac001a", "fontColor":"black"}
 ]
