@@ -1,4 +1,5 @@
 [ 
   {"prize":"INT. CHAMPIONS CUP","startDate":"2018-08-04 17:05:00", "duration":2, "timezone":"GMT-5","title":"RMA vs JUV"},
+  {"prize":"PREMIER LEAGUE","startDate":"2018-08-10 14:00:00", "duration":2, "timezone":"GMT-5","title":"MUTD vs LEI"},
   {"prize":"SUPERCOPA EUROPA","startDate":"2018-08-15 14:00:00", "duration":2, "timezone":"GMT-5","title":"RMA vs ATL"}
 ]
