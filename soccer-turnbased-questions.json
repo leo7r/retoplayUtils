@@ -1,613 +1,2024 @@
 [{
 	"id": 1,
-	"question": "¿Balón de Oro más Polémico de la historia?",
+	"question": "¿Cuál equipo es comúnmente conocido como: 'El Submarino Amarillo'?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Las Palmas FC"
+	}, {
+		"id": 2,
+		"title": "Villarreal CF "
+	}, {
+		"id": 3,
+		"title": "Leganés"
+	}, {
+		"id": 4,
+		"title": "Valencia FC"
+	}]
+}, {
+	"id": 2,
+	"question": "¿Cuántos balones de oro ganó Cristiano Ronaldo mientras jugó en el Manchester united?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "2"
+	}, {
+		"id": 2,
+		"title": "1 "
+	}, {
+		"id": 3,
+		"title": "3"
+	}, {
+		"id": 4,
+		"title": "0"
+	}]
+}, {
+	"id": 3,
+	"question": "¿Cuál fue el resultado en la final de la Champions League temporada 2014-2015?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "2-0"
+	}, {
+		"id": 2,
+		"title": "4-1"
+	}, {
+		"id": 3,
+		"title": "3-1 "
+	}, {
+		"id": 4,
+		"title": "3-0"
+	}]
+}, {
+	"id": 4,
+	"question": "¿Cuántas veces ha ganado el Real Madrid 'La Liga' española?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "30"
+	}, {
+		"id": 2,
+		"title": "32"
+	}, {
+		"id": 3,
+		"title": "33 "
+	}, {
+		"id": 4,
+		"title": "31"
+	}]
+}, {
+	"id": 5,
+	"question": "¿En cuál temporada Ronaldinho ganó la Champions League con el Barcelona FC?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "2004-2005"
+	}, {
+		"id": 2,
+		"title": "2005-2006 "
+	}, {
+		"id": 3,
+		"title": "2006-2007"
+	}, {
+		"id": 4,
+		"title": "2003-2004"
+	}]
+}, {
+	"id": 6,
+	"question": "¿Cuántas veces ha ganado la Champions League el AC Milán?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "5"
+	}, {
+		"id": 2,
+		"title": "9"
+	}, {
+		"id": 3,
+		"title": "10"
+	}, {
+		"id": 4,
+		"title": "7 "
+	}]
+}, {
+	"id": 7,
+	"question": "¿En cuántos clubes italianos ha jugado el venezolano Tomás Rincón?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "2"
+	}, {
+		"id": 2,
+		"title": "3 "
+	}, {
+		"id": 3,
+		"title": "4"
+	}, {
+		"id": 4,
+		"title": "1"
+	}]
+}, {
+	"id": 8,
+	"question": "El estadio llamado 'El Teatro de los Sueños' es la casa de:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Sevilla"
+	}, {
+		"id": 2,
+		"title": "Valencia"
+	}, {
+		"id": 3,
+		"title": "Manchester United "
+	}, {
+		"id": 4,
+		"title": "Liverpool"
+	}]
+}, {
+	"id": 9,
+	"question": "¿Cuántos goles hizo Ronaldo Nazario en total con Real Madrid?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "102"
+	}, {
+		"id": 2,
+		"title": "83 "
+	}, {
+		"id": 3,
+		"title": "94"
+	}, {
+		"id": 4,
+		"title": "56"
+	}]
+}, {
+	"id": 10,
+	"question": "¿En qué año se jugó la final de la Champions League entre el Arsenal y el Barcelona?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "2004"
+	}, {
+		"id": 2,
+		"title": "2003"
+	}, {
+		"id": 3,
+		"title": "2007"
+	}, {
+		"id": 4,
+		"title": "2006 "
+	}]
+}, {
+	"id": 11,
+	"question": "El equipo más veces ganador de la Premier League Inglesa es:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Liverpool"
+	}, {
+		"id": 2,
+		"title": "Arsenal"
+	}, {
+		"id": 3,
+		"title": "Manchester United "
+	}, {
+		"id": 4,
+		"title": "Chelsea FC"
+	}]
+}, {
+	"id": 12,
+	"question": "¿Cuándo fue la última vez que el Arsenal FC ganó la Liga Inglesa?",
 	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "2003-2004 "
+	}, {
+		"id": 2,
+		"title": "2004-2005"
+	}, {
+		"id": 3,
+		"title": "2008-2009"
+	}, {
+		"id": 4,
+		"title": "2000-2001"
+	}]
+}, {
+	"id": 13,
+	"question": "El equipo italiano es comúnmente conocido como la 'Vecchia Signora' es:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "AS Roma"
+	}, {
+		"id": 2,
+		"title": "Lazio"
+	}, {
+		"id": 3,
+		"title": "Juventus "
+	}, {
+		"id": 4,
+		"title": "Genoa"
+	}]
+}, {
+	"id": 14,
+	"question": "¿Cuándo fue la última vez que AS Roma se coronó como campeón de la Serie A?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "2002-2003"
+	}, {
+		"id": 2,
+		"title": "2001-2002"
+	}, {
+		"id": 3,
+		"title": "2000-2001 "
+	}, {
+		"id": 4,
+		"title": "1989-1990"
+	}]
+}, {
+	"id": 15,
+	"question": "¿Cuál de estos futbolistas jugó en Real Madrid y también en Barcelona?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Luis Figo "
+	}, {
+		"id": 2,
+		"title": "Ronaldinho"
+	}, {
+		"id": 3,
+		"title": "Johan Cruyff"
+	}, {
+		"id": 4,
+		"title": "Rivaldo"
+	}]
+}, {
+	"id": 16,
+	"question": "¿En qué año llegó Cristiano Ronaldo al Real Madrid?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "2008"
+	}, {
+		"id": 2,
+		"title": "2009 "
+	}, {
+		"id": 3,
+		"title": "2010"
+	}, {
+		"id": 4,
+		"title": "2007"
+	}]
+}, {
+	"id": 17,
+	"question": "¿Quién fue el ganador del balón de oro del año 2006?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Kaká"
+	}, {
+		"id": 2,
+		"title": "Fabio Cannavaro "
+	}, {
+		"id": 3,
+		"title": "Gianluigi Buffon"
+	}, {
+		"id": 4,
+		"title": "Thierry Henry"
+	}]
+}, {
+	"id": 18,
+	"question": "¿En cuál equipo francés jugó Karim Benzema antes de fichar por Real Madrid?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Olympique Marseille"
+	}, {
+		"id": 2,
+		"title": "Olympique Lyon "
+	}, {
+		"id": 3,
+		"title": "PSG"
+	}, {
+		"id": 4,
+		"title": "Bordeaux"
+	}]
+}, {
+	"id": 19,
+	"question": "¿Cuántas temporadas jugó Javier 'Chicharito' Hernández en Manchester united?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "5"
+	}, {
+		"id": 2,
+		"title": "6"
+	}, {
+		"id": 3,
+		"title": "4 "
+	}, {
+		"id": 4,
+		"title": "3"
+	}]
+}, {
+	"id": 20,
+	"question": "¿Quién fue el entrenador del Atlético de Madrid antes de Diego Simeone?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Javier Aguirre"
+	}, {
+		"id": 2,
+		"title": "Gregorio Manzano "
+	}, {
+		"id": 3,
+		"title": "Quique Sánchez Flores "
+	}, {
+		"id": 4,
+		"title": "Abel Resino"
+	}]
+}, {
+	"id": 21,
+	"question": "¿Cuál fue el campeón de la Premier League en la temporada 2010-2011?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Manchester United "
+	}, {
+		"id": 2,
+		"title": "Chelsea FC"
+	}, {
+		"id": 3,
+		"title": "Liverpool"
+	}, {
+		"id": 4,
+		"title": "Manchester City"
+	}]
+}, {
+	"id": 22,
+	"question": "¿Por cuántos equipos italianos ha fichado el argentino Gonzalo Higuaín?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "3 "
+	}, {
+		"id": 2,
+		"title": "2"
+	}, {
+		"id": 3,
+		"title": "4"
+	}, {
+		"id": 4,
+		"title": "5"
+	}]
+}, {
+	"id": 23,
+	"question": "¿Cuántos balones de oro ha ganado el argentino Lionel Messi?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "5 "
+	}, {
+		"id": 2,
+		"title": "4"
+	}, {
+		"id": 3,
+		"title": "6"
+	}, {
+		"id": 4,
+		"title": "3"
+	}]
+}, {
+	"id": 24,
+	"question": "¿Con cuál equipo llegó a semifinal de Champions league el uruguayo Diego Forlán?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Atlético de Madrid"
+	}, {
+		"id": 2,
+		"title": "Villarreal CF "
+	}, {
+		"id": 3,
+		"title": "Inter"
+	}, {
+		"id": 4,
+		"title": "Manchester United"
+	}]
+}, {
+	"id": 25,
+	"question": "¿Con cuál apodo se conoce comúnmente al español Fernando Torres?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "El Goleador"
+	}, {
+		"id": 2,
+		"title": "El Niño "
+	}, {
+		"id": 3,
+		"title": "El Chaval"
+	}, {
+		"id": 4,
+		"title": "El Guaje"
+	}]
+}, {
+	"id": 26,
+	"question": "Antes de fichar por Valencia FC, el español David Villa jugaba en:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Barcelona"
+	}, {
+		"id": 2,
+		"title": "Málaga FC"
+	}, {
+		"id": 3,
+		"title": "Real Zaragoza "
+	}, {
+		"id": 4,
+		"title": "Sevilla"
+	}]
+}, {
+	"id": 27,
+	"question": "El inglés Steven Gerrard nunca pudo ganar unos de estos torneos:",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Premier League "
+	}, {
+		"id": 2,
+		"title": "Champions League"
+	}, {
+		"id": 3,
+		"title": "FA Cup"
+	}, {
+		"id": 4,
+		"title": "Community Shield"
+	}]
+}, {
+	"id": 28,
+	"question": "¿Cuántas veces fue campeón de la liga inglesa el jugador Frank Lampard?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "5"
+	}, {
+		"id": 2,
+		"title": "3 "
+	}, {
+		"id": 3,
+		"title": "2"
+	}, {
+		"id": 4,
+		"title": "1"
+	}]
+}, {
+	"id": 29,
+	"question": "¿Con cuál equipo ganó Alessandro Del Piero la Champions League? ",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Padova"
+	}, {
+		"id": 2,
+		"title": "Inter"
+	}, {
+		"id": 3,
+		"title": "Juventus "
+	}, {
+		"id": 4,
+		"title": "Napoli SSC"
+	}]
+}, {
+	"id": 30,
+	"question": "Andrea Pirlo fue campeón de la Champions League con:",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Juventus"
+	}, {
+		"id": 2,
+		"title": "AC Milán "
+	}, {
+		"id": 3,
+		"title": "Parma "
+	}, {
+		"id": 4,
+		"title": "Inter"
+	}]
+}, {
+	"id": 31,
+	"question": "¿Cuál es el lema que utilizan los hinchas del Real Madrid?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "¡Hala Madrid! "
+	}, {
+		"id": 2,
+		"title": "¡Somos El Madrid!"
+	}, {
+		"id": 3,
+		"title": "¡Aupa Real!"
+	}, {
+		"id": 4,
+		"title": "¡Arriba Madrid!"
+	}]
+}, {
+	"id": 32,
+	"question": "José Mourinho ganó su primera Champions League con:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Inter"
+	}, {
+		"id": 2,
+		"title": "Real Madrid"
+	}, {
+		"id": 3,
+		"title": "Porto FC "
+	}, {
+		"id": 4,
+		"title": "Chelsea FC"
+	}]
+}, {
+	"id": 33,
+	"question": "Uno de ellos ha ganado la Champions League como jugador y también como entrenador:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "José Mourinho"
+	}, {
+		"id": 2,
+		"title": "Fabio Capello"
+	}, {
+		"id": 3,
+		"title": "Carlo Ancelotti "
+	}, {
+		"id": 4,
+		"title": "Jupp Heynckes"
+	}]
+}, {
+	"id": 34,
+	"question": "¿En cuál equipo jugaba Gareth Bale antes de fichar por el Real Madrid?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Newcastle United"
+	}, {
+		"id": 2,
+		"title": "West Bromwich Albion"
+	}, {
+		"id": 3,
+		"title": "Tottenham "
+	}, {
+		"id": 4,
+		"title": "Manchester United"
+	}]
+}, {
+	"id": 35,
+	"question": "¿En cuál equipo jugaba Luka Modric antes de fichar por el Real Madrid?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Liverpool"
+	}, {
+		"id": 2,
+		"title": "Olympique Lyon"
+	}, {
+		"id": 3,
+		"title": "Tottenham "
+	}, {
+		"id": 4,
+		"title": "Chelsea FC"
+	}]
+}, {
+	"id": 36,
+	"question": "¿Quién fue el entrenador del AC Milan en la temporada 2012-2013?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Massimiliano Allegri "
+	}, {
+		"id": 2,
+		"title": "Carlo Ancelotti"
+	}, {
+		"id": 3,
+		"title": "Clarence Seedorf"
+	}, {
+		"id": 4,
+		"title": "Leonardo"
+	}]
+}, {
+	"id": 37,
+	"question": "¿En cuántos equipos italianos jugó Zlatan Ibrahimovic?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "2"
+	}, {
+		"id": 2,
+		"title": "3 "
+	}, {
+		"id": 3,
+		"title": "4"
+	}, {
+		"id": 4,
+		"title": "1"
+	}]
+}, {
+	"id": 38,
+	"question": "Tras abandonar el Real Madrid, Raúl González fichó por:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Barcelona FC"
+	}, {
+		"id": 2,
+		"title": "Sevilla FC"
+	}, {
+		"id": 3,
+		"title": "Schalke 04 "
+	}, {
+		"id": 4,
+		"title": "New York Cosmos"
+	}]
+}, {
+	"id": 39,
+	"question": "¿En cuál equipo español jugó Sergio 'El Kun' Aguero?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Real Madrid"
+	}, {
+		"id": 2,
+		"title": "Atlético de Madrid "
+	}, {
+		"id": 3,
+		"title": "Sevilla FC"
+	}, {
+		"id": 4,
+		"title": "Valencia FC"
+	}]
+}, {
+	"id": 40,
+	"question": "¿Cuando fue campeón por última vez el Chelsea FC de la Premier League inglesa?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "2015-2016"
+	}, {
+		"id": 2,
+		"title": "2014-2015"
+	}, {
+		"id": 3,
+		"title": "2009-2010"
+	}, {
+		"id": 4,
+		"title": "2016-2017 "
+	}]
+}, {
+	"id": 41,
+	"question": "¿Quién fue el goleador de la Premier League inglesa en la temporada 2017-2018?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Harry Kane"
+	}, {
+		"id": 2,
+		"title": "Mohamed Salah "
+	}, {
+		"id": 3,
+		"title": "Sergio Aguero"
+	}, {
+		"id": 4,
+		"title": "Gabriel Jesus"
+	}]
+}, {
+	"id": 42,
+	"question": "¿Cuál fue el apodo que le dió Josep Blatter a Cristiano Ronaldo?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "El Rey"
+	}, {
+		"id": 2,
+		"title": "El Matador"
+	}, {
+		"id": 3,
+		"title": "El Comandante "
+	}, {
+		"id": 4,
+		"title": "CR7"
+	}]
+}, {
+	"id": 43,
+	"question": "¿Cuál jugador italiano es conocido con el apodo 'Pinturicchio'?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Christian Vieri"
+	}, {
+		"id": 2,
+		"title": "Alessandro Del Piero "
+	}, {
+		"id": 3,
+		"title": "Gianluigi Buffon"
+	}, {
+		"id": 4,
+		"title": "Francesco Totti"
+	}]
+}, {
+	"id": 44,
+	"question": "¿En cuál equipo jugaba James Rodríguez antes de fichar por el Real Madrid?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Porto FC"
+	}, {
+		"id": 2,
+		"title": "Monaco FC "
+	}, {
+		"id": 3,
+		"title": "River Plate"
+	}, {
+		"id": 4,
+		"title": "Sporting Lisboa"
+	}]
+}, {
+	"id": 45,
+	"question": "¿En cuántos equipos italianos ha jugado el colombiano Juan Cuadrado?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "2"
+	}, {
+		"id": 2,
+		"title": "3"
+	}, {
+		"id": 3,
+		"title": "1"
+	}, {
+		"id": 4,
+		"title": "4 "
+	}]
+}, {
+	"id": 46,
+	"question": "¿Cuando fue campeón por última vez el Bayern Munich de la Champions league?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "2012"
+	}, {
+		"id": 2,
+		"title": "2011"
+	}, {
+		"id": 3,
+		"title": "2013 "
+	}, {
+		"id": 4,
+		"title": "2015"
+	}]
+}, {
+	"id": 47,
+	"question": "¿En qué ciudad se jugó la final de la Champions league del 2015?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Berlín "
+	}, {
+		"id": 2,
+		"title": "Milán"
+	}, {
+		"id": 3,
+		"title": "Kiev"
+	}, {
+		"id": 4,
+		"title": "Barcelona"
+	}]
+}, {
+	"id": 48,
+	"question": "¿En cuál equipo Italiano jugó el argentino Diego Maradona?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Juventus"
+	}, {
+		"id": 2,
+		"title": "Napoli SSC "
+	}, {
+		"id": 3,
+		"title": "AC Milan"
+	}, {
+		"id": 4,
+		"title": "Inter"
+	}]
+}, {
+	"id": 49,
+	"question": "¿Cuál de estos futbolistas jugó en AS Roma durante toda su carrera?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Mohamed Salah"
+	}, {
+		"id": 2,
+		"title": "Juan"
+	}, {
+		"id": 3,
+		"title": "Francesco Totti "
+	}, {
+		"id": 4,
+		"title": "Alessandro Florenzi"
+	}]
+}, {
+	"id": 50,
+	"question": "Tras abandonar el Bayern Múnich, Bastian Schweinsteiger fichó por:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Schalke 04 FC"
+	}, {
+		"id": 2,
+		"title": "LA Galaxy"
+	}, {
+		"id": 3,
+		"title": "Manchester United "
+	}, {
+		"id": 4,
+		"title": "Chelsea FC"
+	}]
+}, {
+	"id": 51,
+	"question": "¿En cuál de éstos equipos no jugó el croata Mario Mandzukic?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Juventus"
+	}, {
+		"id": 2,
+		"title": "Bayern Munich"
+	}, {
+		"id": 3,
+		"title": "Atlético de Madrid"
+	}, {
+		"id": 4,
+		"title": "Valencia FC "
+	}]
+}, {
+	"id": 52,
+	"question": "¿Quién marcó el primer gol en la final de la Champions League temporada 2017-2018?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Mohamed Salah"
+	}, {
+		"id": 2,
+		"title": "Karim Benzema "
+	}, {
+		"id": 3,
+		"title": "Gareth Bale"
+	}, {
+		"id": 4,
+		"title": "Sadio Mané"
+	}]
+}, {
+	"id": 53,
+	"question": "¿Cuándo ganó la Premier League inglesa el Manchester United por última vez?",
+	"answer": 3,
 	"answers": [{
 		"id": 1,
 		"title": "2010"
 	}, {
 		"id": 2,
-		"title": "2006"
+		"title": "2009"
 	}, {
 		"id": 3,
-		"title": "1995"
+		"title": "2013 "
 	}, {
 		"id": 4,
-		"title": "2017"
+		"title": "2015"
 	}]
 }, {
-	"id": 2,
-	"question": "¿Cuál de estos Equipos fue eliminado en octavos de la EFL Cup?",
+	"id": 54,
+	"question": "¿En qué país nació el jugador Gonzalo Higuaín?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Uruguay"
+	}, {
+		"id": 2,
+		"title": "Francia "
+	}, {
+		"id": 3,
+		"title": "Argentina"
+	}, {
+		"id": 4,
+		"title": "España"
+	}]
+}, {
+	"id": 55,
+	"question": "¿En cuál equipo jugaba Paul Pogba antes de fichar por Manchester United?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Barcelona"
+	}, {
+		"id": 2,
+		"title": "Juventus "
+	}, {
+		"id": 3,
+		"title": "PSG"
+	}, {
+		"id": 4,
+		"title": "Bayern Múnich"
+	}]
+}, {
+	"id": 56,
+	"question": "¿Cuál de estos jugadores fue una de las grandes figuras históricas del Real Madrid?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Johan Cruyff"
+	}, {
+		"id": 2,
+		"title": "Alfredo Di Stefano "
+	}, {
+		"id": 3,
+		"title": "Pelé"
+	}, {
+		"id": 4,
+		"title": "Maradona"
+	}]
+}, {
+	"id": 57,
+	"question": "El estadio “San Mamés” es la casa de:",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Sevilla"
+	}, {
+		"id": 2,
+		"title": "Athletic de Bilbao "
+	}, {
+		"id": 3,
+		"title": "Zaragoza"
+	}, {
+		"id": 4,
+		"title": "Tenerife FC"
+	}]
+}, {
+	"id": 58,
+	"question": "¿Con cuál equipo ganó Johan Cruyff “La Liga” Española?",
 	"answer": 3,
 	"answers": [{
 		"id": 1,
-		"title": "Leicester City"
+		"title": "Real Madrid"
+	}, {
+		"id": 2,
+		"title": "Levante UD"
+	}, {
+		"id": 3,
+		"title": "Barcelona FC "
+	}, {
+		"id": 4,
+		"title": "Valencia FC"
+	}]
+}, {
+	"id": 59,
+	"question": "Antes de fichar por el Bayern de Múnich, Manuel Neuer jugaba en:",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Borussia Dortmund"
+	}, {
+		"id": 2,
+		"title": "Schalke 04 "
+	}, {
+		"id": 3,
+		"title": "Bayer Leverkusen"
+	}, {
+		"id": 4,
+		"title": "Hamburgo"
+	}]
+}, {
+	"id": 60,
+	"question": "El delantero Andriy Shevchenko mientras jugó en AC Milán usaba el número:",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "9"
+	}, {
+		"id": 2,
+		"title": "10"
+	}, {
+		"id": 3,
+		"title": "21"
+	}, {
+		"id": 4,
+		"title": "7 "
+	}]
+}, {
+	"id": 61,
+	"question": "¿Cuántas veces ha ganado la Serie A el entrenador Carlo Ancelotti?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "3"
+	}, {
+		"id": 2,
+		"title": "4"
+	}, {
+		"id": 3,
+		"title": "5"
+	}, {
+		"id": 4,
+		"title": "1 "
+	}]
+}, {
+	"id": 62,
+	"question": "¿Cómo se llama el estadio del Barcelona FC?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Barcelona Stadium"
+	}, {
+		"id": 2,
+		"title": "Camp Nou "
+	}, {
+		"id": 3,
+		"title": "Catalunya Stadium"
+	}, {
+		"id": 4,
+		"title": "Estadio Barcelona"
+	}]
+}, {
+	"id": 63,
+	"question": "Benzema, Bale y Cristiano, formaban el tridente llamado:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "El Tridente Blanco"
+	}, {
+		"id": 2,
+		"title": "La CBB"
+	}, {
+		"id": 3,
+		"title": "La BBC "
+	}, {
+		"id": 4,
+		"title": "El Tridente Galáctico"
+	}]
+}, {
+	"id": 64,
+	"question": "¿Cuál fue el resultado en la final de la Champions League temporada 2001-2002?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "3 - 1"
+	}, {
+		"id": 2,
+		"title": "2 - 2"
+	}, {
+		"id": 3,
+		"title": "2 - 1 "
+	}, {
+		"id": 4,
+		"title": "1 - 1"
+	}]
+}, {
+	"id": 65,
+	"question": "La Ligue One, es el torneo de Primera División en:",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Estados Unidos"
+	}, {
+		"id": 2,
+		"title": "Francia "
+	}, {
+		"id": 3,
+		"title": "Suiza"
+	}, {
+		"id": 4,
+		"title": "Inglaterra"
+	}]
+}, {
+	"id": 66,
+	"question": "¿Cuántas veces ha ganado Lionel Messi la Champions League?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "5"
+	}, {
+		"id": 2,
+		"title": "4 "
+	}, {
+		"id": 3,
+		"title": "3"
+	}, {
+		"id": 4,
+		"title": "6"
+	}]
+}, {
+	"id": 67,
+	"question": "¿En qué país nació el jugador Fernando Muslera?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Uruguay"
+	}, {
+		"id": 2,
+		"title": "Chile"
+	}, {
+		"id": 3,
+		"title": "Paraguay"
+	}, {
+		"id": 4,
+		"title": "Argentina "
+	}]
+}, {
+	"id": 68,
+	"question": "El estadio Stamford Bridge, es la casa de:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Arsenal FC"
+	}, {
+		"id": 2,
+		"title": "Leicester City FC"
+	}, {
+		"id": 3,
+		"title": "Chelsea FC "
+	}, {
+		"id": 4,
+		"title": "Liverpool"
+	}]
+}, {
+	"id": 69,
+	"question": "¿Cuántas temporadas jugó Ruud Van Nistelrooy con el Manchester United?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "4"
+	}, {
+		"id": 2,
+		"title": "3"
+	}, {
+		"id": 3,
+		"title": "5 "
+	}, {
+		"id": 4,
+		"title": "6"
+	}]
+}, {
+	"id": 70,
+	"question": "El verdadero nombre del brasileño Ronaldinho es:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Ronaldo Gaucho"
+	}, {
+		"id": 2,
+		"title": "Ronaldo Assis de Moreira"
+	}, {
+		"id": 3,
+		"title": "Ronaldo Assis Moreira "
+	}, {
+		"id": 4,
+		"title": "Ronaldo Moreira"
+	}]
+}, {
+	"id": 71,
+	"question": "¿Cuál equipo fue campeón de la Premier League Inglesa en la temporada 2015-2016?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Manchester United"
 	}, {
 		"id": 2,
 		"title": "Manchester City"
 	}, {
 		"id": 3,
-		"title": "Tottenham"
+		"title": "Chelsea FC"
 	}, {
 		"id": 4,
-		"title": "Manchester United"
+		"title": "Leicester City FC "
 	}]
 }, {
-	"id": 3,
-	"question": "Quien de estos no estuvo en las semis de la “ConcaChampions” del 2009",
-	"answer": 3,
-	"answers": [{
-		"id": 1,
-		"title": "Santos Laguna"
-	}, {
-		"id": 2,
-		"title": "Cruz Azul"
-	}, {
-		"id": 3,
-		"title": "Ninguna de las anteriores"
-	}, {
-		"id": 4,
-		"title": "Puerto Rico Islanders"
-	}]
-}, {
-	"id": 4,
-	"question": "Equipo que NO está en el primer grupo en la tercera división de Francia",
-	"answer": 3,
-	"answers": [{
-		"id": 1,
-		"title": "Olimpique De Marsella II"
-	}, {
-		"id": 2,
-		"title": "Mónaco II"
-	}, {
-		"id": 3,
-		"title": "PSG II"
-	}, {
-		"id": 4,
-		"title": "Niza II"
-	}]
-}, {
-	"id": 5,
-	"question": "Edad de Fran Ribéry",
+	"id": 72,
+	"question": "El argentino Carlos Tevez, fue campeón de la Champions League con:",
 	"answer": 2,
 	"answers": [{
 		"id": 1,
-		"title": "32 años"
-	}, {
-		"id": 2,
-		"title": "35 años"
-	}, {
-		"id": 3,
-		"title": "33 años"
-	}, {
-		"id": 4,
-		"title": "34 años"
-	}]
-}, {
-	"id": 6,
-	"question": "Único balón de oro con triple empate en el tercer puesto",
-	"answer": 3,
-	"answers": [{
-		"id": 1,
-		"title": "1988"
-	}, {
-		"id": 2,
-		"title": "1999"
-	}, {
-		"id": 3,
-		"title": "1991"
-	}, {
-		"id": 4,
-		"title": "2000"
-	}]
-}, {
-	"id": 7,
-	"question": "Edad de Podolski",
-	"answer": 4,
-	"answers": [{
-		"id": 1,
-		"title": "33"
-	}, {
-		"id": 2,
-		"title": "34"
-	}, {
-		"id": 3,
-		"title": "35"
-	}, {
-		"id": 4,
-		"title": "32"
-	}]
-}, {
-	"id": 8,
-	"question": "Equipo más subcampeón de la Pokal (copa alemana)",
-	"answer": 4,
-	"answers": [{
-		"id": 1,
-		"title": "Bayern Múnich"
-	}, {
-		"id": 2,
-		"title": "Hamburgo"
-	}, {
-		"id": 3,
-		"title": "Borussia Dortmund"
-	}, {
-		"id": 4,
-		"title": "Schalke 04"
-	}]
-}, {
-	"id": 9,
-	"question": "Cual de estos equipo NO ha estado en la final de la Copa del Rey",
-	"answer": 1,
-	"answers": [{
-		"id": 1,
-		"title": "FC Barcelona B"
-	}, {
-		"id": 2,
-		"title": "Real Madrid Castilla"
-	}, {
-		"id": 3,
-		"title": "Alavés"
-	}, {
-		"id": 4,
-		"title": "RCR Huelva"
-	}]
-}, {
-	"id": 10,
-	"question": "Precio de la transferencia de Marc-Andreé Ter Stegen del Borussia al FC barcelona",
-	"answer": 1,
-	"answers": [{
-		"id": 1,
-		"title": "20 millones"
-	}, {
-		"id": 2,
-		"title": "22 millones"
-	}, {
-		"id": 3,
-		"title": "24 millones"
-	}, {
-		"id": 4,
-		"title": "25 millones"
-	}]
-}, {
-	"id": 11,
-	"question": "Jugador que más asistencias ha dado a Messi",
-	"answer": 2,
-	"answers": [{
-		"id": 1,
-		"title": "Andrés Iniesta"
-	}, {
-		"id": 2,
-		"title": "Dani Alves"
-	}, {
-		"id": 3,
-		"title": "Jordi Alba"
-	}, {
-		"id": 4,
-		"title": "Xavi"
-	}]
-}, {
-	"id": 12,
-	"question": "Según Zidane ¿Qué le dijo Materazzi en la final del mundo del 2006 donde le pegó un cabezazo en el pecho?",
-	"answer": 1,
-	"answers": [{
-		"id": 1,
-		"title": "“Hijo de una puta terrorista”"
-	}, {
-		"id": 2,
-		"title": "“Tu hermana vive de su cuerpo”"
-	}, {
-		"id": 3,
-		"title": "“Linda calva”"
-	}, {
-		"id": 4,
-		"title": "“¿Cuándo explotarás?”"
-	}]
-}, {
-	"id": 13,
-	"question": "Quien de estos NO se ha quejado PÚBLICAMENTE de los árbitros?",
-	"answer": 4,
-	"answers": [{
-		"id": 1,
-		"title": "Piqué"
-	}, {
-		"id": 2,
-		"title": "Buffon"
-	}, {
-		"id": 3,
-		"title": "Arturo Vidal"
-	}, {
-		"id": 4,
-		"title": "Ninguna de las anteriores"
-	}]
-}, {
-	"id": 14,
-	"question": "Equipo más subcampeón de Argentina",
-	"answer": 2,
-	"answers": [{
-		"id": 1,
-		"title": "Racing"
-	}, {
-		"id": 2,
-		"title": "River Plate"
-	}, {
-		"id": 3,
-		"title": "Boca"
-	}, {
-		"id": 4,
-		"title": "Estudiantes (hola Smolov :v)"
-	}]
-}, {
-	"id": 15,
-	"question": "Quien de estos NO ha sido ovacionado en el Bernabéu",
-	"answer": 2,
-	"answers": [{
-		"id": 1,
-		"title": "Totti"
-	}, {
-		"id": 2,
-		"title": "Ninguna de las anteriores"
-	}, {
-		"id": 3,
-		"title": "Buffon"
-	}, {
-		"id": 4,
-		"title": "Ronaldinho"
-	}]
-}, {
-	"id": 16,
-	"question": "Resultado de las previas de la Europa League del 2001 entre Constelació Esportiva y Deportivo la Coruña",
-	"answer": 1,
-	"answers": [{
-		"id": 1,
-		"title": "Esport 0-10|0-6 (0-16) Depor"
-	}, {
-		"id": 2,
-		"title": "Ninguna de las anteriores"
-	}, {
-		"id": 3,
-		"title": "Esportiva 1-12|2-10 (3-22) Dep"
-	}, {
-		"id": 4,
-		"title": "Esportiva 1-8|0-8 (1-16) Depor"
-	}]
-}, {
-	"id": 17,
-	"question": "Equipo más perdedor de las finales de la Libertadores",
-	"answer": 3,
-	"answers": [{
-		"id": 1,
-		"title": "Olimpia de Paraguay"
-	}, {
-		"id": 2,
-		"title": "Boca"
-	}, {
-		"id": 3,
-		"title": "Peñarol"
-	}, {
-		"id": 4,
-		"title": "São Paulo"
-	}]
-}, {
-	"id": 18,
-	"question": "Equipo más subcampeón de los campeonatos nacionales italianos",
-	"answer": 2,
-	"answers": [{
-		"id": 1,
-		"title": "Nápoli"
-	}, {
-		"id": 2,
-		"title": "Roma"
-	}, {
-		"id": 3,
-		"title": "Inter de Milan"
-	}, {
-		"id": 4,
 		"title": "Juventus"
-	}]
-}, {
-	"id": 19,
-	"question": "Mayor cantidad de espectadores en la final de la Copa Alemana",
-	"answer": 2,
-	"answers": [{
-		"id": 1,
-		"title": "80,814"
 	}, {
 		"id": 2,
-		"title": "80,400"
+		"title": "Manchester United "
 	}, {
 		"id": 3,
-		"title": "80,000"
+		"title": "Chelsea"
 	}, {
 		"id": 4,
-		"title": "80,100"
+		"title": "West Ham United"
 	}]
 }, {
-	"id": 20,
-	"question": "Cuándo se hará la elección a la sede de los mundiales del 2026 y 2030",
+	"id": 73,
+	"question": "¿En cual equipo italiano jugó Zinedine Zidane?",
 	"answer": 1,
 	"answers": [{
 		"id": 1,
-		"title": "2020"
+		"title": "Juventus "
 	}, {
 		"id": 2,
-		"title": "2024"
+		"title": "AC Milán"
+	}, {
+		"id": 3,
+		"title": "Inter"
+	}, {
+		"id": 4,
+		"title": "AS Roma"
+	}]
+}, {
+	"id": 74,
+	"question": "¿Donde nació el reconocido jugador Edgar Davids?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Holanda"
+	}, {
+		"id": 2,
+		"title": "Francia"
+	}, {
+		"id": 3,
+		"title": "Inglaterra"
+	}, {
+		"id": 4,
+		"title": "Surinam "
+	}]
+}, {
+	"id": 75,
+	"question": "¿Cuándo fichó el brasileño Neymar por el club francés PSG?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "2017 "
+	}, {
+		"id": 2,
+		"title": "2016"
 	}, {
 		"id": 3,
 		"title": "2018"
 	}, {
 		"id": 4,
-		"title": "2022"
+		"title": "2015"
 	}]
 }, {
-	"id": 21,
-	"question": "¿Quien de estos no es musulmán?",
-	"answer": 1,
-	"answers": [{
-		"id": 1,
-		"title": "Modric"
-	}, {
-		"id": 2,
-		"title": "Benzemalo"
-	}, {
-		"id": 3,
-		"title": "Pogba"
-	}, {
-		"id": 4,
-		"title": "Mané"
-	}]
-}, {
-	"id": 22,
-	"question": "“Perdonaré que fallen pero no que no se esfuerzen”",
-	"answer": 3,
-	"answers": [{
-		"id": 1,
-		"title": "Zidane"
-	}, {
-		"id": 2,
-		"title": "Heynkes"
-	}, {
-		"id": 3,
-		"title": "Guardiola"
-	}, {
-		"id": 4,
-		"title": "Mourinho"
-	}]
-}, {
-	"id": 23,
-	"question": "¿Quien de estos no es musulmán?",
-	"answer": 1,
-	"answers": [{
-		"id": 1,
-		"title": "Modric"
-	}, {
-		"id": 2,
-		"title": "Mané"
-	}, {
-		"id": 3,
-		"title": "Benzemalo"
-	}, {
-		"id": 4,
-		"title": "Pogba"
-	}]
-}, {
-	"id": 24,
-	"question": "¿Cual de estos equipos ha ganado 3 veces en casa del Real Madrid por 3 años seguidos en La Liga?",
-	"answer": 1,
-	"answers": [{
-		"id": 1,
-		"title": "FC Barcelona"
-	}, {
-		"id": 2,
-		"title": "Athletic Club"
-	}, {
-		"id": 3,
-		"title": "UD Las Palmas"
-	}, {
-		"id": 4,
-		"title": "Atlético de Madrid"
-	}]
-}, {
-	"id": 25,
-	"question": "Copa Libertadores con más equipos participantes (cantidad)",
-	"answer": 3,
-	"answers": [{
-		"id": 1,
-		"title": "37"
-	}, {
-		"id": 2,
-		"title": "38"
-	}, {
-		"id": 3,
-		"title": "47"
-	}, {
-		"id": 4,
-		"title": "46"
-	}]
-}, {
-	"id": 26,
-	"question": "“Benzemá es el mejor 9 del mundo”",
+	"id": 76,
+	"question": "¿Cuál equipo fue campeón de “La Liga” Española en la temporada 2009-2010?",
 	"answer": 4,
 	"answers": [{
 		"id": 1,
-		"title": "Cristiano Ronaldo"
+		"title": "Real Madrid"
+	}, {
+		"id": 2,
+		"title": "Atlético de Madrid"
+	}, {
+		"id": 3,
+		"title": "Sevilla FC"
+	}, {
+		"id": 4,
+		"title": "Barcelona FC "
+	}]
+}, {
+	"id": 77,
+	"question": "En sus primeros años, Lionel Messi era comúnmente llamado:",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "El Enano"
+	}, {
+		"id": 2,
+		"title": "El Dios"
+	}, {
+		"id": 3,
+		"title": "Mini Maradona"
+	}, {
+		"id": 4,
+		"title": "La Pulga "
+	}]
+}, {
+	"id": 78,
+	"question": "Antes de fichar por el Bayern Múnich, Robert Lewandowski jugaba con:",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Borussia Dortmund "
+	}, {
+		"id": 2,
+		"title": "Schalke 04 FC"
+	}, {
+		"id": 3,
+		"title": "Bayer Leverkusen"
+	}, {
+		"id": 4,
+		"title": "Wolfsburg"
+	}]
+}, {
+	"id": 79,
+	"question": "¿Cómo se llama el estadio del Napoli SSC?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Napoli Stadium"
+	}, {
+		"id": 2,
+		"title": "San Paolo "
+	}, {
+		"id": 3,
+		"title": "Il Napoletano"
+	}, {
+		"id": 4,
+		"title": "Regina Margherita"
+	}]
+}, {
+	"id": 80,
+	"question": "¿Cuál es el único equipo que ha ganado la Champions League tres veces seguidas?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Manchester United"
+	}, {
+		"id": 2,
+		"title": "Barcelona"
+	}, {
+		"id": 3,
+		"title": "Real Madrid "
+	}, {
+		"id": 4,
+		"title": "Bayern Múnich"
+	}]
+}, {
+	"id": 81,
+	"question": "¿Con cuál equipo ganó la Champions League el español Carles Puyol?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Barcelona FC "
+	}, {
+		"id": 2,
+		"title": "RCD Espanyol"
+	}, {
+		"id": 3,
+		"title": "Real Madrid"
+	}, {
+		"id": 4,
+		"title": "Valencia FC"
+	}]
+}, {
+	"id": 82,
+	"question": "¿Cuántas veces ganó el jugador Oliver Kahn la Bundesliga?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "6"
+	}, {
+		"id": 2,
+		"title": "4"
+	}, {
+		"id": 3,
+		"title": "8 "
+	}, {
+		"id": 4,
+		"title": "10"
+	}]
+}, {
+	"id": 83,
+	"question": "¿Cómo se llama el último arquero holandés que tuvo el Manchester United?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Jasper Cillessen"
+	}, {
+		"id": 2,
+		"title": "Edwin Van der Sar "
+	}, {
+		"id": 3,
+		"title": "Tim Krul"
+	}, {
+		"id": 4,
+		"title": "Marteen Stekelenburg"
+	}]
+}, {
+	"id": 84,
+	"question": "Antes de fichar por el Barcelona FC, Samuel Eto’o jugaba con:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "RCD Espanyol"
+	}, {
+		"id": 2,
+		"title": "Real Madrid"
+	}, {
+		"id": 3,
+		"title": "RCD Mallorca "
+	}, {
+		"id": 4,
+		"title": "CD Leganes"
+	}]
+}, {
+	"id": 85,
+	"question": "¿Dónde nació el jugador Thiago Alcántara?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Italia "
+	}, {
+		"id": 2,
+		"title": "España"
+	}, {
+		"id": 3,
+		"title": "Brasil"
+	}, {
+		"id": 4,
+		"title": "Portugal"
+	}]
+}, {
+	"id": 86,
+	"question": "Andrés Iniesta es conocido comúnmente con el apodo:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "El Astro"
+	}, {
+		"id": 2,
+		"title": "Don Iniesta"
+	}, {
+		"id": 3,
+		"title": "El Cerebro "
+	}, {
+		"id": 4,
+		"title": "El Loco"
+	}]
+}, {
+	"id": 87,
+	"question": "¿En qué año fue ganador del Balón de Oro el brasileño Kaká?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "2006"
+	}, {
+		"id": 2,
+		"title": "2005"
+	}, {
+		"id": 3,
+		"title": "2007 "
+	}, {
+		"id": 4,
+		"title": "2004"
+	}]
+}, {
+	"id": 88,
+	"question": "¿Cuándo fue la última vez que el AC Milan ganó la Serie A?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "2002-2003"
+	}, {
+		"id": 2,
+		"title": "2005-2006"
+	}, {
+		"id": 3,
+		"title": "2010-2011 "
+	}, {
+		"id": 4,
+		"title": "2003-2004"
+	}]
+}, {
+	"id": 89,
+	"question": "¿Quién fue el máximo goleador de la Serie A en la temporada 2017-2018?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Paulo Dybala"
+	}, {
+		"id": 2,
+		"title": "Mauro Icardi "
+	}, {
+		"id": 3,
+		"title": "Ciro Immobile"
+	}, {
+		"id": 4,
+		"title": "Gonzalo Higuaín"
+	}]
+}, {
+	"id": 90,
+	"question": "El Wanda Metropolitano, es el estadio de:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Granada FC"
+	}, {
+		"id": 2,
+		"title": "Valencia FC"
+	}, {
+		"id": 3,
+		"title": "Atlético de Madrid "
+	}, {
+		"id": 4,
+		"title": "Eibar FC"
+	}]
+}, {
+	"id": 91,
+	"question": "¿En cuál equipo español jugó el colombiano Radamel Falcao?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Real Madrid"
+	}, {
+		"id": 2,
+		"title": "Athletic Bilbao"
+	}, {
+		"id": 3,
+		"title": "Atlético de Madrid "
+	}, {
+		"id": 4,
+		"title": "Villarreal"
+	}]
+}, {
+	"id": 92,
+	"question": "¿Cuantas veces ha ganado “La Liga” Española el Valencia FC?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "2"
+	}, {
+		"id": 2,
+		"title": "4"
+	}, {
+		"id": 3,
+		"title": "6 "
+	}, {
+		"id": 4,
+		"title": "1"
+	}]
+}, {
+	"id": 93,
+	"question": "Tras abandonar el Manchester United, Wayne Rooney fichó por:",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Manchester City"
+	}, {
+		"id": 2,
+		"title": "Everton "
+	}, {
+		"id": 3,
+		"title": "DC United"
+	}, {
+		"id": 4,
+		"title": "Watford"
+	}]
+}, {
+	"id": 94,
+	"question": "¿Dónde nació el jugador Miroslav Klose?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Alemania"
+	}, {
+		"id": 2,
+		"title": "Rusia"
+	}, {
+		"id": 3,
+		"title": "Ucrania"
+	}, {
+		"id": 4,
+		"title": "Polonia "
+	}]
+}, {
+	"id": 95,
+	"question": "Mario Kempes es comúnmente conocido como:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "El Goleador"
+	}, {
+		"id": 2,
+		"title": "El Pibe del gol"
+	}, {
+		"id": 3,
+		"title": "El Matador "
+	}, {
+		"id": 4,
+		"title": "Kempesinho"
+	}]
+}, {
+	"id": 96,
+	"question": "Antes de fichar por el Barcelona FC, Alexis Sánchez jugaba con:",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Udinese "
+	}, {
+		"id": 2,
+		"title": "Colo Colo"
+	}, {
+		"id": 3,
+		"title": "Arsenal"
+	}, {
+		"id": 4,
+		"title": "River Plate"
+	}]
+}, {
+	"id": 97,
+	"question": "¿Cómo se llama el estadio del Arsenal FC?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Wembley Stadium"
+	}, {
+		"id": 2,
+		"title": "Anfield"
+	}, {
+		"id": 3,
+		"title": "Emirates Stadium "
+	}, {
+		"id": 4,
+		"title": "Old Trafford"
+	}]
+}, {
+	"id": 98,
+	"question": "¿En cuál equipo inglés jugó el español Diego Costa?:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Manchester United"
+	}, {
+		"id": 2,
+		"title": "Liverpool"
+	}, {
+		"id": 3,
+		"title": "Chelsea "
+	}, {
+		"id": 4,
+		"title": "Arsenal"
+	}]
+}, {
+	"id": 99,
+	"question": "¿En cuántos equipos italianos jugó el brasileño Ronaldo Nazario?:",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "2 "
+	}, {
+		"id": 2,
+		"title": "1"
+	}, {
+		"id": 3,
+		"title": "3"
+	}, {
+		"id": 4,
+		"title": "Ninguno"
+	}]
+}, {
+	"id": 100,
+	"question": "Tras abandonar la Juventus, Arturo Vidal fichó por:",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Bayern Munich "
+	}, {
+		"id": 2,
+		"title": "Manchester United"
+	}, {
+		"id": 3,
+		"title": "Barcelona"
+	}, {
+		"id": 4,
+		"title": "Real Madrid"
+	}]
+}, {
+	"id": 101,
+	"question": "El estadio llamado “El parque de los Principes” es la casa de:",
+	"answer": 0,
+	"answers": [{
+		"id": 1,
+		"title": "Real Madrid"
+	}, {
+		"id": 2,
+		"title": "Manchester United"
+	}, {
+		"id": 3,
+		"title": "PSG"
+	}, {
+		"id": 4,
+		"title": "Inter"
+	}]
+}, {
+	"id": 102,
+	"question": "¿Cuántas veces ganó Zinedine Zidane la Champions League como Jugador?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "1 "
+	}, {
+		"id": 2,
+		"title": "2"
+	}, {
+		"id": 3,
+		"title": "3"
+	}, {
+		"id": 4,
+		"title": "0"
+	}]
+}, {
+	"id": 103,
+	"question": "¿Quién fue el entrenador campeón de la Premier League inglesa con Leicester City?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "David Moyes"
+	}, {
+		"id": 2,
+		"title": "Roberto Di Matteo"
+	}, {
+		"id": 3,
+		"title": "Claudio Ranieri "
+	}, {
+		"id": 4,
+		"title": "Mauricio Pochettino"
+	}]
+}, {
+	"id": 104,
+	"question": "Antes de fichar por el PSG, Dani Alves jugo con:",
+	"answer": 0,
+	"answers": [{
+		"id": 1,
+		"title": "Barcelona"
+	}, {
+		"id": 2,
+		"title": "Juventus"
+	}, {
+		"id": 3,
+		"title": "Sevilla"
+	}, {
+		"id": 4,
+		"title": "Mónaco"
+	}]
+}, {
+	"id": 105,
+	"question": "David Beckham, mientras jugaba en el Real Madrid utilizó el numero:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "10"
+	}, {
+		"id": 2,
+		"title": "7"
+	}, {
+		"id": 3,
+		"title": "23 "
+	}, {
+		"id": 4,
+		"title": "21"
+	}]
+}, {
+	"id": 106,
+	"question": "¿Qué edad tenía Iker Casillas cuando debutó en el Real Madrid?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "17 "
+	}, {
+		"id": 2,
+		"title": "18"
+	}, {
+		"id": 3,
+		"title": "16"
+	}, {
+		"id": 4,
+		"title": "19"
+	}]
+}, {
+	"id": 107,
+	"question": "¿Cómo se llama el actual entrenador del Real Madrid?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "Julen Lopetegui "
 	}, {
 		"id": 2,
 		"title": "Zinedine Zidane"
 	}, {
 		"id": 3,
-		"title": "Paulo Dybala"
-	}, {
-		"id": 4,
 		"title": "Florentino Pérez"
-	}]
-}, {
-	"id": 27,
-	"question": "Cuál de estos equipos tiene un capitán extranjero?",
-	"answer": 2,
-	"answers": [{
-		"id": 1,
-		"title": "Sampdoria"
-	}, {
-		"id": 2,
-		"title": "Tigres"
-	}, {
-		"id": 3,
-		"title": "Borussia Mönchengladbach"
 	}, {
 		"id": 4,
-		"title": "Galatasaray"
+		"title": "Aitor Karanka"
 	}]
 }, {
-	"id": 28,
-	"question": "¿Cuál de estos Equipos fue eliminado en octavos de la EFL Cup?",
-	"answer": 4,
-	"answers": [{
-		"id": 1,
-		"title": "Manchester United"
-	}, {
-		"id": 2,
-		"title": "Manchester City"
-	}, {
-		"id": 3,
-		"title": "Leicester City"
-	}, {
-		"id": 4,
-		"title": "Tottenham"
-	}]
-}, {
-	"id": 29,
-	"question": "Quien de estos NO se ha quejado PÚBLICAMENTE de los árbitros?",
-	"answer": 4,
-	"answers": [{
-		"id": 1,
-		"title": "Arturo Vidal"
-	}, {
-		"id": 2,
-		"title": "Piqué"
-	}, {
-		"id": 3,
-		"title": "Buffon"
-	}, {
-		"id": 4,
-		"title": "Ninguna de las anteriores"
-	}]
-}, {
-	"id": 30,
-	"question": "Año de inauguración de la Copa Libertadores",
+	"id": 108,
+	"question": "Tras abandonar el Ajax FC, el uruguayo Luis Suárez fichó por:",
 	"answer": 3,
 	"answers": [{
 		"id": 1,
-		"title": "1955"
+		"title": "Barcelona"
 	}, {
 		"id": 2,
-		"title": "1954"
+		"title": "Juventus"
 	}, {
 		"id": 3,
-		"title": "1960"
+		"title": "Liverpool "
 	}, {
 		"id": 4,
-		"title": "1956"
+		"title": "PSV Eindhoven"
 	}]
 }, {
-	"id": 31,
-	"question": "¿Cuál de estos Equipos fue eliminado en octavos de la EFL Cup?",
-	"answer": 2,
-	"answers": [{
-		"id": 1,
-		"title": "Manchester United"
-	}, {
-		"id": 2,
-		"title": "Tottenham"
-	}, {
-		"id": 3,
-		"title": "Leicester City"
-	}, {
-		"id": 4,
-		"title": "Manchester City"
-	}]
-}, {
-	"id": 32,
-	"question": "¿Cuál de estos Equipos fue eliminado en octavos de la EFL Cup?",
+	"id": 109,
+	"question": "¿En cuál equipo debutó como profesional Cristiano Ronaldo?",
 	"answer": 3,
 	"answers": [{
 		"id": 1,
-		"title": "Leicester City"
-	}, {
-		"id": 2,
 		"title": "Manchester United"
 	}, {
-		"id": 3,
-		"title": "Tottenham"
-	}, {
-		"id": 4,
-		"title": "Manchester City"
-	}]
-}, {
-	"id": 33,
-	"question": "Opinión de Pepe sobre la afición del Real Madrid?",
-	"answer": 1,
-	"answers": [{
-		"id": 1,
-		"title": "No motivan te debes motivar tú"
-	}, {
 		"id": 2,
-		"title": "Sales a matar por ellos"
+		"title": "Real Madrid"
 	}, {
 		"id": 3,
-		"title": "No son muy pasionales"
+		"title": "Sporting CP "
 	}, {
 		"id": 4,
-		"title": "Son los mejores del mundo"
-	}]
-}, {
-	"id": 34,
-	"question": "Cuál de estos equipos tiene un capitán extranjero?",
-	"answer": 1,
-	"answers": [{
-		"id": 1,
-		"title": "Tigres"
-	}, {
-		"id": 2,
-		"title": "Galatasaray"
-	}, {
-		"id": 3,
-		"title": "Borussia Mönchengladbach"
-	}, {
-		"id": 4,
-		"title": "Sampdoria"
-	}]
-}, {
-	"id": 35,
-	"question": "Equipo que No es de una de las 5 Grandes ligas con más Balones de Oro",
-	"answer": 4,
-	"answers": [{
-		"id": 1,
-		"title": "Porto"
-	}, {
-		"id": 2,
 		"title": "Benfica"
-	}, {
-		"id": 3,
-		"title": "Ajax"
-	}, {
-		"id": 4,
-		"title": "Dynamo Kyiv"
 	}]
 }, {
-	"id": 36,
-	"question": "Máximo subcampeón de la AFC Champions League",
+	"id": 110,
+	"question": "Ángel Di María ganó la Champions League con el Real Madrid en el año:",
 	"answer": 2,
 	"answers": [{
 		"id": 1,
-		"title": "Pohang Steelets"
+		"title": "2017"
 	}, {
 		"id": 2,
-		"title": "Al-Hilal"
+		"title": "2014 "
 	}, {
 		"id": 3,
-		"title": "Al-Ahli"
+		"title": "2018"
 	}, {
 		"id": 4,
-		"title": "All Sadd Spots"
+		"title": "2016"
+	}]
+}, {
+	"id": 111,
+	"question": "El holandés Frank Rijkaard fue el entrenador del club español:",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Sevilla FC"
+	}, {
+		"id": 2,
+		"title": "RCD Mallorca"
+	}, {
+		"id": 3,
+		"title": "Barcelona "
+	}, {
+		"id": 4,
+		"title": "Valencia FC"
+	}]
+}, {
+	"id": 112,
+	"question": "¿Cuántas veces ha ganado el Manchester United la Champions League?",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "5"
+	}, {
+		"id": 2,
+		"title": "2"
+	}, {
+		"id": 3,
+		"title": "1"
+	}, {
+		"id": 4,
+		"title": "3 "
+	}]
+}, {
+	"id": 113,
+	"question": "¿Dónde nació el jugador Diego Costa?",
+	"answer": 0,
+	"answers": [{
+		"id": 1,
+		"title": "España"
+	}, {
+		"id": 2,
+		"title": "Portugal"
+	}, {
+		"id": 3,
+		"title": "Brasil"
+	}, {
+		"id": 4,
+		"title": "Italia"
+	}]
+}, {
+	"id": 114,
+	"question": "El estadio Santiago Bernabéu, es la casa de:",
+	"answer": 0,
+	"answers": [{
+		"id": 1,
+		"title": "Atlético de Madrid"
+	}, {
+		"id": 2,
+		"title": "Real Madrid"
+	}, {
+		"id": 3,
+		"title": "Sevilla FC"
+	}, {
+		"id": 4,
+		"title": "Valencia FC"
+	}]
+}, {
+	"id": 115,
+	"question": "¿Quién es el jugador con más goles en la historia de la Champions League?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "Ronaldinho"
+	}, {
+		"id": 2,
+		"title": "Lionel Messi"
+	}, {
+		"id": 3,
+		"title": "Cristiano Ronaldo "
+	}, {
+		"id": 4,
+		"title": "Karim Benzema"
+	}]
+}, {
+	"id": 116,
+	"question": "¿En qué año el Barcelona FC fichó a Zlatan Ibrahimovic?",
+	"answer": 3,
+	"answers": [{
+		"id": 1,
+		"title": "2008"
+	}, {
+		"id": 2,
+		"title": "2007"
+	}, {
+		"id": 3,
+		"title": "2009 "
+	}, {
+		"id": 4,
+		"title": "2006"
+	}]
+}, {
+	"id": 117,
+	"question": "¿En cuántos equipos italianos jugo Thierry Henry?",
+	"answer": 1,
+	"answers": [{
+		"id": 1,
+		"title": "1 "
+	}, {
+		"id": 2,
+		"title": "2"
+	}, {
+		"id": 3,
+		"title": "0"
+	}, {
+		"id": 4,
+		"title": "4"
+	}]
+}, {
+	"id": 118,
+	"question": "Antes de fichar por el Manchester United, David de Gea jugó con:",
+	"answer": 4,
+	"answers": [{
+		"id": 1,
+		"title": "Real Madrid"
+	}, {
+		"id": 2,
+		"title": "Valencia FC"
+	}, {
+		"id": 3,
+		"title": "Chelsea FC"
+	}, {
+		"id": 4,
+		"title": "Atlético de Madrid "
+	}]
+}, {
+	"id": 119,
+	"question": " ¿En cuál equipo juega el crack francés Kylian Mbappé?",
+	"answer": 2,
+	"answers": [{
+		"id": 1,
+		"title": "Mónaco"
+	}, {
+		"id": 2,
+		"title": "PSG "
+	}, {
+		"id": 3,
+		"title": "Olympique Lyon"
+	}, {
+		"id": 4,
+		"title": "Real Madrid"
 	}]
 }]
