@@ -3,5 +3,7 @@
   {"prize":"LIGA MX","startDate":"2018-08-24 21:00:00", "duration":2, "timezone":"GMT-5","title":"ATL vs CHI"},
   {"prize":"SERIE A","startDate":"2018-08-25 11:00:00", "duration":2, "timezone":"GMT-5","title":"JUV vs LAZ"},
   {"prize":"PREMIER LEAGUE","startDate":"2018-08-26 10:00:00", "duration":2, "timezone":"GMT-5","title":"CHE vs NEW"},
-  {"prize":"LA LIGA","startDate":"2018-08-26 15:15:00", "duration":2, "timezone":"GMT-5","title":"GIR vs RMA"}
+  {"prize":"LA LIGA","startDate":"2018-08-26 15:15:00", "duration":2, "timezone":"GMT-5","title":"GIR vs RMA"},
+  {"prize":"LIGA MX","startDate":"2018-08-26 18:00:00", "duration":2, "timezone":"GMT-5","title":"SAN vs CAZ"},
+  {"prize":"PREMIER LEAGUE","startDate":"2018-08-27 14:00:00", "duration":2, "timezone":"GMT-5","title":"MUTD vs TOT"}
 ]
