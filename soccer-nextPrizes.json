@@ -5,5 +5,6 @@
   {"prize":"PREMIER LEAGUE","startDate":"2018-08-26 10:00:00", "duration":2, "timezone":"GMT-5","title":"CHE vs NEW"},
   {"prize":"LA LIGA","startDate":"2018-08-26 15:15:00", "duration":2, "timezone":"GMT-5","title":"GIR vs RMA"},
   {"prize":"LIGA MX","startDate":"2018-08-26 18:00:00", "duration":2, "timezone":"GMT-5","title":"SAN vs CAZ"},
-  {"prize":"PREMIER LEAGUE","startDate":"2018-08-27 14:00:00", "duration":2, "timezone":"GMT-5","title":"MUTD vs TOT"}
+  {"prize":"PREMIER LEAGUE","startDate":"2018-08-27 14:00:00", "duration":2, "timezone":"GMT-5","title":"MUTD vs TOT"},  
+  {"prize":"LA LIGA","startDate":"2018-09-01 13:45:00", "duration":2, "timezone":"GMT-5","title":"RMA vs LEG"}
 ]
