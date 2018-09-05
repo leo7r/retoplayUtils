@@ -1,12 +1,9 @@
 [ 
-  {"prize":"PREMIER LEAGUE","startDate":"2018-08-20 13:55:00", "duration":2, "timezone":"GMT-5","title":"CRY vs LIV"},
-  {"prize":"LIGA MX","startDate":"2018-08-24 21:00:00", "duration":2, "timezone":"GMT-5","title":"ATL vs CHI"},
-  {"prize":"SERIE A","startDate":"2018-08-25 11:00:00", "duration":2, "timezone":"GMT-5","title":"JUV vs LAZ"},
-  {"prize":"PREMIER LEAGUE","startDate":"2018-08-26 10:00:00", "duration":2, "timezone":"GMT-5","title":"CHE vs NEW"},
-  {"prize":"LA LIGA","startDate":"2018-08-26 15:15:00", "duration":2, "timezone":"GMT-5","title":"GIR vs RMA"},
-  {"prize":"LIGA MX","startDate":"2018-08-26 18:00:00", "duration":2, "timezone":"GMT-5","title":"SAN vs CAZ"},
-  {"prize":"PREMIER LEAGUE","startDate":"2018-08-27 14:00:00", "duration":2, "timezone":"GMT-5","title":"MUTD vs TOT"},
-  {"prize":"PREMIER LEAGUE","startDate":"2018-09-01 09:00:00", "duration":2, "timezone":"GMT-5","title":"CHE vs BOU"}, 
-  {"prize":"LA LIGA","startDate":"2018-09-01 13:45:00", "duration":2, "timezone":"GMT-5","title":"RMA vs LEG"},
-  {"prize":"LA LIGA","startDate":"2018-09-02 11:00:00", "duration":2, "timezone":"GMT-5","title":"BAR vs HUE"}
+  {"prize":"LA LIGA","startDate":"2018-09-02 11:00:00", "duration":2, "timezone":"GMT-5","title":"BAR vs HUE"},
+  {"prize":"LIGA NACIONES UEFA","startDate":"2018-09-06 13:45:00", "duration":2, "timezone":"GMT-5","title":"ALE vs FRA"},
+  {"prize":"LIGA NACIONES UEFA","startDate":"2018-09-07 13:45:00", "duration":2, "timezone":"GMT-5","title":"ITA vs POL"},
+  {"prize":"AMISTOSOS INT.","startDate":"2018-09-07 20:30:00", "duration":2, "timezone":"GMT-5","title":"MEX vs URU"},
+  {"prize":"LIGA NACIONES UEFA","startDate":"2018-09-08 13:45:00", "duration":2, "timezone":"GMT-5","title":"ING vs ESP"},
+  {"prize":"LIGA NACIONES UEFA","startDate":"2018-09-09 13:45:00", "duration":2, "timezone":"GMT-5","title":"FRA vs HOL"},
+  {"prize":"LIGA NACIONES UEFA","startDate":"2018-09-10 13:45:00", "duration":2, "timezone":"GMT-5","title":"POR vs ITA"}
 ]
