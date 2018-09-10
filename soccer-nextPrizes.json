@@ -5,5 +5,8 @@
   {"prize":"AMISTOSOS INT.","startDate":"2018-09-07 20:30:00", "duration":2, "timezone":"GMT-5","title":"MEX vs URU"},
   {"prize":"LIGA NACIONES UEFA","startDate":"2018-09-08 13:45:00", "duration":2, "timezone":"GMT-5","title":"ING vs ESP"},
   {"prize":"LIGA NACIONES UEFA","startDate":"2018-09-09 13:45:00", "duration":2, "timezone":"GMT-5","title":"FRA vs HOL"},
-  {"prize":"LIGA NACIONES UEFA","startDate":"2018-09-10 13:45:00", "duration":2, "timezone":"GMT-5","title":"POR vs ITA"}
+  {"prize":"LIGA NACIONES UEFA","startDate":"2018-09-10 13:45:00", "duration":2, "timezone":"GMT-5","title":"POR vs ITA"},
+  {"prize":"LIGA NACIONES UEFA","startDate":"2018-09-10 13:45:00", "duration":2, "timezone":"GMT-5","title":"ESP vs CRO"},
+  {"prize":"AMISTOSOS INT.","startDate":"2018-09-11 19:00:00", "duration":2, "timezone":"GMT-5","title":"COL vs ARG"},
+  {"prize":"AMISTOSOS INT.","startDate":"2018-09-11 19:30:00", "duration":2, "timezone":"GMT-5","title":"MEX vs USA"}
 ]
