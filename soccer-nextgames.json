@@ -2,6 +2,7 @@
 	"nextPrize": "100 monedas",
 	"nextPrizeDate": "2018-09-18",
 	"lastWinner": "Juan Perez",
+	"rules":"El ganador, en caso de existir un premio fijado, será anunciado todos los días Domingo luego de las 5:00PM hora de México. Todos las monedas conseguidas luego de esa hora y antes del día Lunes no serán válidas para el concurso",
 	"nextGames": [
 		{
 			"league": "AMISTOSOS INT.",
