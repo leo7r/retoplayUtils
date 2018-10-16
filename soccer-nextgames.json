@@ -1,36 +1,92 @@
 {
-	"nextPrize": "Por definir",
-	"nextPrizeDate": "2018-09-18",
+	"nextPrize": "100 MONEDAS",
+	"nextPrizeDate": "2018-10-21",
 	"lastWinner": "Juan Perez",
 	"rules":"El ganador, en caso de existir un premio fijado, será anunciado todos los días Domingo luego de las 5:00PM hora de México. Todas las monedas conseguidas luego de esa hora y antes del día Lunes no serán válidas para el concurso",
 	"nextGames": [
 		{
 			"league": "LA LIGA",
-			"startDate": "2018-09-15 09:15:00",
+			"startDate": "2018-10-20 13:45:00",
 			"duration": 2,
 			"timezone": "GMT-5",
-			"title": "Real S. vs Barcelona"
+			"title": "Barcelona vs Sevilla"
+		},
+		{
+			"league": "LIGA MX",
+			"startDate": "2018-10-20 17:00:00",
+			"duration": 2,
+			"timezone": "GMT-5",
+			"title": "Queretaro vs Cruz Azul"
+		},
+		{
+			"league": "LIGA MX",
+			"startDate": "2018-10-20 19:00:00",
+			"duration": 2,
+			"timezone": "GMT-5",
+			"title": "America vs Xolos"
+		},
+		{
+			"league": "LIGA MX",
+			"startDate": "2018-10-21 12:00:00",
+			"duration": 2,
+			"timezone": "GMT-5",
+			"title": "Lobos vs Chivas"
+		},
+		{
+			"league": "SERIE A",
+			"startDate": "2018-10-21 13:30:00",
+			"duration": 2,
+			"timezone": "GMT-5",
+			"title": "Inter vs Milan"
+		},
+		{
+			"league": "LIGA MX",
+			"startDate": "2018-10-21 20:00:00",
+			"duration": 2,
+			"timezone": "GMT-5",
+			"title": "Monterrey vs Toluca"
+		},
+		{
+			"league": "CHAMPIONS LEAGUE",
+			"startDate": "2018-10-23 14:00:00",
+			"duration": 2,
+			"timezone": "GMT-5",
+			"title": "Manchester UTD vs Juventus"
+		},
+		{
+			"league": "CHAMPIONS LEAGUE",
+			"startDate": "2018-10-24 14:00:00",
+			"duration": 2,
+			"timezone": "GMT-5",
+			"title": "Barcelona vs Inter"
+		},
+		{
+			"league": "LIGA MX",
+			"startDate": "2018-10-26 19:00:00",
+			"duration": 2,
+			"timezone": "GMT-5",
+			"title": "Santos L. vs Monterrey"
+		},
+		{
+			"league": "LIGA MX",
+			"startDate": "2018-10-27 20:00:00",
+			"duration": 2,
+			"timezone": "GMT-5",
+			"title": "Chivas vs Monarcas"
+		},
+		{
+			"league": "LIGA MX",
+			"startDate": "2018-10-27 21:00:00",
+			"duration": 2,
+			"timezone": "GMT-5",
+			"title": "Cruz Azul vs America"
 		},
 		{
 			"league": "LA LIGA",
-			"startDate": "2018-09-15 13:45:00",
+			"startDate": "2018-10-28 10:15:00",
 			"duration": 2,
 			"timezone": "GMT-5",
-			"title": "Bilbao. vs Real Madrid"
-		},
-		{
-			"league": "LIGA MX",
-			"startDate": "2018-09-15 19:00:00",
-			"duration": 2,
-			"timezone": "GMT-5",
-			"title": "America vs Monarcas"
-		},
-		{
-			"league": "LIGA MX",
-			"startDate": "2018-09-15 21:00:00",
-			"duration": 2,
-			"timezone": "GMT-5",
-			"title": "Monterrey vs Chivas"
+			"title": "Barcelona vs Real Madrid"
 		}
 	]
 }
